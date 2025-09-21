@@ -1,0 +1,219 @@
+{
+  "subject": "Physics",
+  "class": 12,
+  "books": [
+    {
+      "bookTitle": "NCERT Physics Part 1",
+      "chapters": [
+        {
+          "chapterNumber": 1,
+          "chapterTitle": "Electric Charges and Fields",
+          "topics": [
+            "Introduction",
+            "Electric Charge",
+            "Conductors and Insulators",
+            "Basic Properties of Electric Charge",
+            "Coulomb’s Law",
+            "Forces between Multiple Charges",
+            "Electric Field",
+            "Electric Field Lines",
+            "Electric Flux",
+            "Electric Dipole",
+            "Dipole in a Uniform External Field",
+            "Continuous Charge Distribution",
+            "Gauss’s Law",
+            "Applications of Gauss’s Law"
+          ]
+        },
+        {
+          "chapterNumber": 2,
+          "chapterTitle": "Electrostatic Potential and Capacitance",
+          "topics": [
+            "Introduction",
+            "Electrostatic Potential",
+            "Potential due to a Point Charge",
+            "Potential due to an Electric Dipole",
+            "Potential due to a System of Charges",
+            "Equipotential Surfaces",
+            "Potential Energy of a System of Charges",
+            "Potential Energy in an External Field",
+            "Electrostatics of Conductors",
+            "Dielectrics and Polarisation",
+            "Capacitors and Capacitance",
+            "The Parallel Plate Capacitor",
+            "Effect of Dielectric on Capacitance",
+            "Combination of Capacitors",
+            "Energy Stored in a Capacitor"
+          ]
+        },
+        {
+          "chapterNumber": 3,
+          "chapterTitle": "Current Electricity",
+          "topics": [
+            "Introduction",
+            "Electric Current",
+            "Electric Currents in Conductors",
+            "Ohm’s Law",
+            "Drift of Electrons and the Origin of Resistivity",
+            "Limitations of Ohm’s Law",
+            "Resistivity of Various Materials",
+            "Temperature Dependence of Resistivity",
+            "Electrical Energy, Power",
+            "Cells, emf, Internal Resistance",
+            "Cells in Series and in Parallel",
+            "Kirchhoff’s Rules",
+            "Wheatstone Bridge"
+          ]
+        },
+        {
+          "chapterNumber": 4,
+          "chapterTitle": "Moving Charges and Magnetism",
+          "topics": [
+            "Introduction",
+            "Magnetic Force",
+            "Motion in a Magnetic Field",
+            "Magnetic Field due to a Current Element, Biot-Savart Law",
+            "Magnetic Field on the Axis of a Circular Current Loop",
+            "Ampere’s Circuital Law",
+            "The Solenoid",
+            "Force between Two Parallel Currents, the Ampere",
+            "Torque on Current Loop, Magnetic Dipole",
+            "The Moving Coil Galvanometer"
+          ]
+        },
+        {
+          "chapterNumber": 5,
+          "chapterTitle": "Magnetism and Matter",
+          "topics": [
+            "Introduction",
+            "The Bar Magnet",
+            "Magnetism and Gauss’s Law",
+            "Magnetisation and Magnetic Intensity",
+            "Magnetic Properties of Materials"
+          ]
+        },
+        {
+          "chapterNumber": 6,
+          "chapterTitle": "Electromagnetic Induction",
+          "topics": [
+            "Introduction",
+            "The Experiments of Faraday and Henry",
+            "Magnetic Flux",
+            "Faraday’s Law of Induction",
+            "Lenz’s Law and Conservation of Energy",
+            "Motional Electromotive Force",
+            "Inductance",
+            "AC Generator"
+          ]
+        },
+        {
+          "chapterNumber": 7,
+          "chapterTitle": "Alternating Current",
+          "topics": [
+            "Introduction",
+            "AC Voltage Applied to a Resistor",
+            "Representation of AC Current and Voltage by Rotating Vectors — Phasors",
+            "AC Voltage Applied to an Inductor",
+            "AC Voltage Applied to a Capacitor",
+            "AC Voltage Applied to a Series LCR Circuit",
+            "Power in AC Circuit: The Power Factor",
+            "Transformers"
+          ]
+        },
+        {
+          "chapterNumber": 8,
+          "chapterTitle": "Electromagnetic Waves",
+          "topics": [
+            "Introduction",
+            "Displacement Current",
+            "Electromagnetic Waves",
+            "Electromagnetic Spectrum"
+          ]
+        }
+      ]
+    },
+    {
+      "bookTitle": "NCERT Physics Part 2",
+      "chapters": [
+        {
+          "chapterNumber": 9,
+          "chapterTitle": "Ray Optics and Optical Instruments",
+          "topics": [
+            "Introduction",
+            "Reflection of Light by Spherical Mirrors",
+            "Refraction",
+            "Total Internal Reflection",
+            "Refraction at Spherical Surfaces and by Lenses",
+            "Refraction through a Prism",
+            "Optical Instruments"
+          ]
+        },
+        {
+          "chapterNumber": 10,
+          "chapterTitle": "Wave Optics",
+          "topics": [
+            "Introduction",
+            "Huygens Principle",
+            "Refraction and Reflection of Plane Waves using Huygens Principle",
+            "Coherent and Incoherent Addition of Waves",
+            "Interference of Light Waves and Young’s Experiment",
+            "Diffraction",
+            "Polarisation"
+          ]
+        },
+        {
+          "chapterNumber": 11,
+          "chapterTitle": "Dual Nature of Radiation and Matter",
+          "topics": [
+            "Introduction",
+            "Electron Emission",
+            "Photoelectric Effect",
+            "Experimental Study of Photoelectric Effect",
+            "Photoelectric Effect and Wave Theory of Light",
+            "Einstein’s Photoelectric Equation: Energy Quantum of Radiation",
+            "Particle Nature of Light: The Photon",
+            "Wave Nature of Matter"
+          ]
+        },
+        {
+          "chapterNumber": 12,
+          "chapterTitle": "Atoms",
+          "topics": [
+            "Introduction",
+            "Alpha-particle Scattering and Rutherford’s Nuclear Model of Atom",
+            "Atomic Spectra",
+            "Bohr Model of the Hydrogen Atom",
+            "The Line Spectra of the Hydrogen Atom",
+            "De Broglie’s Explanation of Bohr’s Second Postulate of Quantisation"
+          ]
+        },
+        {
+          "chapterNumber": 13,
+          "chapterTitle": "Nuclei",
+          "topics": [
+            "Introduction",
+            "Atomic Masses and Composition of Nucleus",
+            "Size of the Nucleus",
+            "Mass-Energy and Nuclear Binding Energy",
+            "Nuclear Force",
+            "Radioactivity",
+            "Nuclear Energy"
+          ]
+        },
+        {
+          "chapterNumber": 14,
+          "chapterTitle": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+          "topics": [
+            "Introduction",
+            "Classification of Metals, Conductors and Semiconductors",
+            "Intrinsic Semiconductor",
+            "Extrinsic Semiconductor",
+            "p-n Junction",
+            "Semiconductor Diode",
+            "Application of Junction Diode as a Rectifier"
+          ]
+        }
+      ]
+    }
+  ]
+}

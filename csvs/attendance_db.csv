@@ -1,0 +1,1001 @@
+id,first_name,last_name,absence_days,extracurricular_activities,debar_risk
+1,Ijaya,Naidu,64,No,Low Attendance
+2,Mekhala,Khare,69,No,Low Attendance
+3,Tarak,Edwin,73,No,Low Attendance
+4,Veer,Sabharwal,71,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+5,George,Savant,52,Yes,"Low Attendance, Fee Default, Admin Debar"
+6,Anika,Choudhury,71,Yes,Low Attendance
+7,Ekta,Natt,49,No,Low Attendance
+8,Jairaj,Brahmbhatt,72,Yes,"Low Attendance, Fee Default, Admin Debar"
+9,Faras,Deo,63,No,"Low Attendance, Fee Default, Admin Debar"
+10,Hemani,Mistry,69,No,Low Attendance
+11,Maanav,Reddy,64,No,Low Attendance
+12,Qasim,Sachdev,74,Yes,"Low Attendance, Fee Default, Admin Debar"
+13,Arunima,Warrior,65,No,Low Attendance
+14,Quincy,Thakur,65,Yes,Low Attendance
+15,Tejas,Natt,80,Yes,Low Attendance
+16,Vansha,Roy,57,No,Low Attendance
+17,Hardik,Dutta,52,No,Low Attendance
+18,Yadavi,Mann,71,No,Low Attendance
+19,Faris,Pall,62,No,Low Attendance
+20,Saanvi,Wason,75,Yes,Low Attendance
+21,Waida,Mall,59,Yes,Low Attendance
+22,Finn,Balay,73,Yes,Low Attendance
+23,Ansh,Sastry,52,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+24,Oni,Yogi,65,Yes,Low Attendance
+25,Chanakya,Wali,49,Yes,Low Attendance
+26,Utkarsh,Apte,63,No,"Low Attendance, Fee Default, Admin Debar"
+27,Yadavi,Shanker,73,No,Low Attendance
+28,Darsh,Raj,44,Yes,Low Attendance
+29,Pavani,Bahri,76,No,Low Attendance
+30,Oscar,Kothari,58,Yes,Low Attendance
+31,Adya,Jhaveri,69,Yes,"Low Attendance, Fee Default, Admin Debar"
+32,Lajita,Kari,46,No,"Low Attendance, Fee Default, Admin Debar"
+33,Hema,Mangat,77,Yes,"Low Attendance, Fee Default, Admin Debar"
+34,Janaki,Sawhney,54,No,Low Attendance
+35,Azad,Gole,56,Yes,Low Attendance
+36,Wahab,Sodhi,54,No,"Low Attendance, Multiple Failures"
+37,Ayaan,Tailor,54,Yes,Low Attendance
+38,Warhi,Nayak,53,Yes,Low Attendance
+39,Bimala,Sachar,80,No,Low Attendance
+40,Indrajit,Bath,70,No,"Low Attendance, Fee Default, Admin Debar"
+41,Zehaan,Thakkar,71,Yes,Low Attendance
+42,Orinder,Varughese,70,Yes,Low Attendance
+43,Urvashi,Sastry,65,No,Low Attendance
+44,Vasatika,Chandra,59,No,"Low Attendance, Fee Default, Admin Debar"
+45,Ria,Lall,57,No,"Low Attendance, Fee Default, Admin Debar"
+46,Damyanti,Khalsa,74,No,"Low Attendance, Low Study + Low Marks, Fee Default, Admin Debar"
+47,Bachittar,Dube,78,No,Low Attendance
+48,Gayathri,Sarraf,73,Yes,"Low Attendance, Fee Default, Admin Debar"
+49,Vrinda,Joshi,52,No,Low Attendance
+50,Patrick,Korpal,44,Yes,Low Attendance
+51,Ryan,Ganguly,48,Yes,Low Attendance
+52,Vincent,Sem,47,No,"Low Attendance, Fee Default, Admin Debar"
+53,Mason,Gokhale,50,Yes,Low Attendance
+54,Abha,Badal,66,Yes,Low Attendance
+55,Harita,Natt,75,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+56,Ayaan,Ben,71,No,Low Attendance
+57,Mitali,Chopra,67,No,"Low Attendance, Low Average Marks, High Risk Combo"
+58,Urvashi,Narain,45,Yes,Low Attendance
+59,Saksham,Bakshi,80,Yes,"Low Attendance, Fee Default, Admin Debar"
+60,Tanvi,Gaba,64,No,Low Attendance
+61,Onveer,Date,69,No,"Low Attendance, Fee Default, Admin Debar"
+62,Hardik,Devi,60,No,"Low Attendance, Fee Default, Admin Debar"
+63,Kritika,Barman,74,Yes,Low Attendance
+64,Frederick,Prakash,74,Yes,Low Attendance
+65,Maanav,Bhatti,63,No,Low Attendance
+66,Warhi,Butala,74,No,Low Attendance
+67,Kevin,Deshpande,60,No,"Low Attendance, Fee Default, Admin Debar"
+68,Veda,Bhandari,68,No,"Low Attendance, Fee Default, Admin Debar"
+69,Rachita,Arora,77,Yes,"Low Attendance, Fee Default, Admin Debar"
+70,Orinder,Rau,50,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+71,Gautami,Tak,76,No,Low Attendance
+72,Adya,Nigam,48,No,Low Attendance
+73,Ladli,Munshi,69,Yes,"Low Attendance, Fee Default, Admin Debar"
+74,Elijah,Ganguly,49,Yes,Low Attendance
+75,Siya,Sridhar,67,Yes,Low Attendance
+76,Omaja,Kumar,72,No,"Low Attendance, Fee Default, Admin Debar"
+77,Manbir,Mandal,47,No,Low Attendance
+78,Kai,Modi,54,No,Low Attendance
+79,Ishanvi,Bedi,49,Yes,Low Attendance
+80,Yashvi,Anne,75,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+81,Hemangini,Kota,44,No,"Low Attendance, Fee Default, Admin Debar"
+82,Omya,Sanghvi,48,Yes,"Low Attendance, Fee Default, Admin Debar"
+83,Lopa,Baria,53,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+84,Balhaar,Bhagat,50,Yes,Low Attendance
+85,Ekaraj,Saha,71,Yes,"Low Attendance, Fee Default, Admin Debar"
+86,Nathan,Raman,69,No,Low Attendance
+87,Hemal,Sarma,69,No,Low Attendance
+88,Turvi,Muni,71,No,Low Attendance
+89,Ekta,Gopal,50,No,Low Attendance
+90,Ikshita,Prasad,70,Yes,Low Attendance
+91,Waida,Pandit,59,Yes,"Low Attendance, Fee Default, Admin Debar"
+92,Garima,Sood,60,Yes,Low Attendance
+93,Omya,Shere,46,Yes,Low Attendance
+94,Aadhya,Choudhary,72,Yes,"Low Attendance, Fee Default, Admin Debar"
+95,Abeer,More,50,Yes,Low Attendance
+96,Anusha,Narang,71,Yes,Low Attendance
+97,Karan,Menon,53,Yes,Low Attendance
+98,Hitesh,Kaur,47,Yes,Low Attendance
+99,Advaith,Chana,49,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+100,Januja,Kuruvilla,65,No,Low Attendance
+101,Tanish,Bahri,77,No,Low Attendance
+102,Christopher,Divan,51,No,"Low Attendance, Fee Default, Admin Debar"
+103,Omisha,Mandal,44,No,Low Attendance
+104,Ekapad,Ravel,46,Yes,Low Attendance
+105,Charvi,Ahuja,65,No,"Low Attendance, Fee Default, Admin Debar"
+106,Irya,Naidu,55,No,Low Attendance
+107,Anamika,Bansal,72,Yes,"Low Attendance, Fee Default, Admin Debar"
+108,Liam,Jayaraman,66,Yes,"Low Attendance, Fee Default, Admin Debar"
+109,Vritti,Karpe,46,Yes,Low Attendance
+110,Nikita,Singhal,64,No,Low Attendance
+111,Daniel,Vasa,47,No,"Low Attendance, Fee Default, Admin Debar"
+112,Kamya,Parmer,75,Yes,"Low Attendance, Multiple Failures"
+113,Jasmit,De,73,No,"Low Attendance, Fee Default, Admin Debar"
+114,Nihal,Shenoy,62,No,Low Attendance
+115,Aadhya,Deo,79,Yes,Low Attendance
+116,Zansi,Nagi,48,No,Low Attendance
+117,Anamika,Shere,74,Yes,"Low Attendance, Fee Default, Admin Debar"
+118,Nikita,Batra,61,Yes,Low Attendance
+119,Reyansh,Balakrishnan,70,Yes,Low Attendance
+120,Gaurika,Mitra,67,No,Low Attendance
+121,Hemangini,Mani,71,Yes,"Low Attendance, Fee Default, Admin Debar"
+122,Isaac,Sodhi,76,Yes,Low Attendance
+123,Siddharth,Raj,65,Yes,"Low Attendance, Fee Default, Admin Debar"
+124,Tejas,Prashad,64,No,"Low Attendance, Low Average Marks, Fee Default, High Risk Combo, Admin Debar"
+125,Radhika,Borra,69,Yes,Low Attendance
+126,Amruta,Gokhale,66,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+127,Bhavika,Raval,49,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+128,Jairaj,Aurora,17,No,"Low Average Marks, Multiple Failures"
+129,Forum,Mutti,44,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+130,Gaurav,Mann,41,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+131,Gautami,Khare,39,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+132,Aarnav,Sachdeva,54,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+133,Pranit,Nori,7,Yes,"Low Average Marks, Multiple Failures"
+134,Baljiwan,Vala,29,No,"Low Average Marks, Multiple Failures, Fee Default"
+135,Mitesh,Parsa,58,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+136,Thomas,Swamy,41,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+137,Janaki,Wagle,24,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+138,Qarin,Sabharwal,5,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+139,Siddharth,Reddy,65,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+140,Charita,Ramaswamy,40,No,"Low Average Marks, Multiple Failures, Fee Default"
+141,Zashil,Vora,63,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+142,Upadhriti,Bali,17,No,"Low Average Marks, Multiple Failures"
+143,Deepa,Sama,60,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+144,Bakhshi,Agarwal,40,Yes,"Low Average Marks, Multiple Failures"
+145,Pahal,Badal,80,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+146,Harini,Batra,3,Yes,"Low Average Marks, Multiple Failures"
+147,Yashodhara,Sami,47,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+148,Hamsini,Chaudhari,64,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+149,Nilima,Anne,63,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+150,Zaitra,Swamy,56,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+151,Upma,Dutta,53,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+152,Nathaniel,Garg,47,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+153,Tanay,Vasa,57,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+154,Faqid,Murty,73,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+155,Aryan,Kuruvilla,72,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+156,Gabriel,Viswanathan,17,Yes,"Low Average Marks, Multiple Failures"
+157,Niharika,Apte,46,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+158,Dhriti,Pandey,37,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+159,Nilima,Srinivas,43,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+160,Ishanvi,Agate,57,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+161,Damyanti,Mittal,74,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+162,Lipika,Mandal,77,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+163,Yash,Bumb,10,Yes,"Low Average Marks, Multiple Failures"
+164,Irya,Nayar,44,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+165,Turvi,Garg,39,No,"Low Average Marks, Multiple Failures, Fee Default"
+166,Logan,Soni,66,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+167,Maya,Chaudhary,44,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+168,Oviya,Chander,36,No,"Low Average Marks, Multiple Failures"
+169,Lavanya,Bajaj,77,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+170,Unni,Kala,52,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+171,Raksha,Oommen,14,Yes,"Low Average Marks, Multiple Failures"
+172,Gopal,Bobal,59,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+173,Samesh,Baria,79,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+174,Viraj,Bhasin,16,No,Low Average Marks
+175,Aradhana,Venkataraman,45,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+176,Meera,Kari,60,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+177,Aayush,Bandi,56,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+178,Parth,Trivedi,26,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+179,Wakeeta,Mannan,51,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+180,Rajeshri,Hayer,6,No,"Low Average Marks, Multiple Failures, Fee Default"
+181,Andrew,Bedi,19,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+182,Yoshita,Doshi,2,Yes,"Low Average Marks, Multiple Failures"
+183,Devika,Jaggi,55,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+184,Arin,Khare,68,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+185,Owen,Dada,20,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+186,Hemang,Chawla,39,Yes,"Low Average Marks, Multiple Failures"
+187,Rajeshri,Gola,65,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+188,Amara,Tank,24,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+189,Maya,Zachariah,53,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+190,Nimrat,Dube,17,Yes,"Low Average Marks, Multiple Failures"
+191,Imaran,Chaudhuri,13,No,"Low Average Marks, Multiple Failures"
+192,Kiaan,Gara,73,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+193,Indrajit,Wagle,9,Yes,"Low Average Marks, Multiple Failures"
+194,Umang,Hora,55,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+195,Riya,Devan,20,No,"Low Average Marks, Multiple Failures"
+196,Kritika,Lata,15,No,"Low Average Marks, Multiple Failures"
+197,Jai,Manne,67,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+198,Zashil,Kulkarni,55,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+199,Advik,Deo,78,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+200,Umang,Lala,63,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+201,Sarthak,Mannan,10,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+202,Patrick,Char,70,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+203,Falan,Krishnan,76,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+204,Yamini,Dhillon,37,No,"Low Average Marks, Multiple Failures, Fee Default"
+205,Girik,Ram,0,Yes,"Low Average Marks, Multiple Failures"
+206,Madhav,Mukhopadhyay,38,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+207,Oscar,Uppal,55,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+208,Samesh,Chopra,63,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+209,Amaira,Kaur,69,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+210,Oeshi,Dua,5,No,"Low Average Marks, Multiple Failures"
+211,Chandani,Mangat,7,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+212,Rudra,Kapur,13,No,"Low Average Marks, Multiple Failures"
+213,Samarth,Bava,55,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+214,Lajita,Prabhu,41,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+215,Krisha,Khare,29,Yes,"Low Average Marks, Multiple Failures"
+216,Champak,Banerjee,57,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+217,Raksha,Misra,39,No,"Low Average Marks, Multiple Failures"
+218,Chaman,Shanker,60,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+219,Aarnav,Jaggi,63,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+220,Tara,Kaul,23,No,Low Average Marks
+221,Oni,Lall,43,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+222,Ryan,Doctor,23,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+223,Ronith,Seth,45,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+224,Rudra,Agrawal,14,No,"Low Average Marks, Multiple Failures, Fee Default"
+225,Zinal,Gala,7,No,"Low Average Marks, Multiple Failures"
+226,Timothy,Rajan,54,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+227,Anika,Hora,38,No,"Low Average Marks, Multiple Failures"
+228,Sudiksha,Swaminathan,69,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+229,Advika,Kurian,39,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+230,Darika,Gokhale,38,Yes,"Low Average Marks, Multiple Failures"
+231,Akshay,Nadkarni,6,No,"Low Average Marks, Multiple Failures"
+232,Manan,Ganguly,48,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+233,Gaurangi,Sampath,21,Yes,"Low Average Marks, Multiple Failures"
+234,Atharv,Mittal,53,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+235,Faqid,Sankar,62,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+236,Zehaan,Pandya,25,No,"Low Average Marks, Multiple Failures"
+237,Amrita,Nadig,68,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+238,Isaac,Hora,18,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+239,Radhika,Bhalla,38,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+240,Praneel,Kibe,40,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+241,Ishani,Baral,1,Yes,"Low Average Marks, Multiple Failures"
+242,Chandresh,Keer,19,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+243,Deepa,Aurora,58,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+244,Joshua,Kalita,74,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+245,Nisha,Ramaswamy,30,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+246,Gayathri,Wason,30,Yes,"Low Average Marks, Multiple Failures"
+247,Bakhshi,Pingle,38,Yes,"Low Average Marks, Multiple Failures"
+248,Yashvi,Devan,14,Yes,"Low Average Marks, Multiple Failures"
+249,Bhavani,Dada,0,Yes,"Low Average Marks, Multiple Failures"
+250,Brinda,Mitra,0,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+251,Ekiya,Narasimhan,67,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+252,Falak,Menon,48,Yes,"Low Attendance, Multiple Failures"
+253,Devansh,Chad,21,Yes,Multiple Failures
+254,Yashica,Soni,9,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+255,Maanav,Dhawan,45,Yes,"Low Attendance, Multiple Failures"
+256,Aashi,Magar,51,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+257,Pooja,Devan,7,No,"Multiple Failures, Low Study + Low Marks"
+258,Ayushman,Devan,62,Yes,"Low Attendance, Multiple Failures"
+259,Theodore,Ravi,22,No,Multiple Failures
+260,Barkha,Goel,74,No,"Low Attendance, Multiple Failures"
+261,Janaki,Chada,14,Yes,"Multiple Failures, Fee Default"
+262,Sai,Kuruvilla,58,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+263,Raagini,Kata,43,No,"Low Attendance, Multiple Failures"
+264,Vedika,Gole,29,No,Multiple Failures
+265,Finn,De,13,No,"Multiple Failures, Low Study + Low Marks"
+266,Qarin,Bhagat,3,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+267,Aishani,Ramachandran,68,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+268,Orinder,Master,2,No,"Low Average Marks, Multiple Failures"
+269,Aarna,Subramanian,9,Yes,"Low Average Marks, Multiple Failures"
+270,Aachal,Pau,30,Yes,"Multiple Failures, Fee Default"
+271,Sai,Pant,74,No,"Low Attendance, Multiple Failures"
+272,Sneha,Hans,36,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+273,Jagdish,Krishnan,34,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+274,Dhruv,Sood,19,Yes,Multiple Failures
+275,Isaac,Sengupta,56,No,"Low Attendance, Multiple Failures"
+276,Vaishnavi,Wadhwa,39,No,"Low Average Marks, Multiple Failures"
+277,Imaran,Venkataraman,12,No,Multiple Failures
+278,Faris,Suresh,0,No,Multiple Failures
+279,Indira,Agrawal,65,No,"Low Attendance, Multiple Failures"
+280,Jeevika,Grover,25,Yes,Multiple Failures
+281,Dalbir,Kota,0,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+282,Pranav,Sawhney,37,No,Multiple Failures
+283,Ganga,Sharaf,8,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+284,Watika,Anand,68,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+285,Fitan,Shah,72,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+286,Megha,Kapadia,7,Yes,"Low Average Marks, Multiple Failures"
+287,Aarush,Borra,37,No,"Multiple Failures, Fee Default"
+288,Xavier,Raju,38,No,"Multiple Failures, Fee Default"
+289,Ganga,Sachar,59,Yes,"Low Attendance, Multiple Failures"
+290,Madhavi,Barman,2,No,Multiple Failures
+291,Baljiwan,Mital,68,No,"Low Attendance, Multiple Failures"
+292,Vamakshi,Kunda,23,No,Multiple Failures
+293,Shivani,Maharaj,3,No,"Multiple Failures, Low Study + Low Marks"
+294,Jacob,Borra,61,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+295,Varenya,Chanda,44,Yes,"Low Attendance, Multiple Failures"
+296,Warhi,Kalla,22,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+297,Aarini,Mammen,22,Yes,Multiple Failures
+298,Arya,Yadav,76,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+299,Imaran,Thaman,70,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+300,Nitesh,Samra,31,Yes,Multiple Failures
+301,Raksha,Vora,50,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+302,Tamanna,Jha,60,Yes,"Low Attendance, Multiple Failures"
+303,Zaid,Trivedi,40,Yes,"Low Average Marks, Multiple Failures"
+304,Gopal,Gade,67,Yes,"Low Attendance, Multiple Failures"
+305,Hredhaan,Goel,45,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+306,Udant,Mani,36,Yes,"Low Average Marks, Multiple Failures"
+307,Nilima,Loke,29,No,"Multiple Failures, Fee Default"
+308,Laksh,Munshi,32,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+309,Yuvraj,Varkey,22,No,"Low Average Marks, Multiple Failures"
+310,Luke,Sinha,8,Yes,"Low Average Marks, Multiple Failures"
+311,Krisha,Shere,37,Yes,Multiple Failures
+312,Rajata,Sant,75,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+313,Jalsa,Dalal,33,Yes,Multiple Failures
+314,Gauri,Konda,5,Yes,Multiple Failures
+315,Falan,Samra,14,Yes,"Low Average Marks, Multiple Failures"
+316,Mekhala,Gokhale,28,No,Multiple Failures
+317,Anita,Bhagat,12,No,Multiple Failures
+318,Falak,Chowdhury,49,No,"Low Attendance, Multiple Failures"
+319,Netra,Natarajan,41,Yes,Multiple Failures
+320,Abhiram,Karnik,36,No,Multiple Failures
+321,Ayaan,De,67,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+322,Wishi,Dash,24,Yes,Multiple Failures
+323,Zinal,Shukla,42,No,Multiple Failures
+324,Zansi,Raj,6,Yes,Multiple Failures
+325,Leena,Dass,32,No,"Low Average Marks, Multiple Failures"
+326,Keya,De,36,No,Multiple Failures
+327,Tanveer,Sarma,39,No,"Multiple Failures, Fee Default"
+328,Wyatt,Borah,2,No,"Low Average Marks, Multiple Failures"
+329,George,Saha,1,No,"Multiple Failures, Low Study + Low Marks"
+330,Ekani,Pant,3,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+331,Rachana,Swamy,32,No,Multiple Failures
+332,Chakradhar,Dara,51,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+333,Guneet,Dewan,66,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+334,Nilima,Kannan,63,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+335,Mason,Thakur,15,Yes,Multiple Failures
+336,Pushti,Balasubramanian,48,Yes,"Low Attendance, Multiple Failures"
+337,Lekha,Dash,74,Yes,"Low Attendance, Multiple Failures"
+338,Rajata,Ben,24,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+339,Owen,Mody,30,No,"Low Average Marks, Multiple Failures"
+340,Upkaar,Chander,5,No,"Low Average Marks, Multiple Failures"
+341,Rajata,Mall,46,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+342,Warda,Kari,56,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+343,Samuel,Peri,18,Yes,"Multiple Failures, Low Study + Low Marks"
+344,Devansh,Parikh,53,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+345,Krishna,Nanda,64,No,"Low Attendance, Multiple Failures"
+346,Yuvraj,Rama,41,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+347,Urishilla,Bala,3,No,"Low Average Marks, Multiple Failures"
+348,Sanya,Konda,44,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+349,Kamya,Chadha,5,No,Multiple Failures
+350,Charles,Venkataraman,64,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+351,Quincy,Nagarajan,6,Yes,Multiple Failures
+352,Ubika,Mohan,61,Yes,"Low Attendance, Multiple Failures"
+353,Omaja,Dhar,4,Yes,Multiple Failures
+354,Abeer,Doctor,48,Yes,"Low Attendance, Multiple Failures"
+355,Harshil,Varkey,4,Yes,"Low Average Marks, Multiple Failures"
+356,Siddharth,Bhalla,12,No,Multiple Failures
+357,Tanish,Brahmbhatt,30,No,"Low Average Marks, Multiple Failures, Fee Default"
+358,Zayan,Atwal,13,Yes,"Multiple Failures, Fee Default"
+359,Sachi,Bail,68,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+360,Irya,Dave,72,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+361,Ekansh,Gokhale,10,No,Multiple Failures
+362,Bishakha,Mane,51,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+363,Faqid,Pau,2,No,"Low Average Marks, Multiple Failures"
+364,Pranav,Ratti,64,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+365,Aadi,Borde,58,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+366,Saumya,Boase,62,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+367,Oscar,Magar,65,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+368,Om,Kalita,9,No,Multiple Failures
+369,Lila,Kala,31,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+370,Parth,Mody,11,Yes,"Multiple Failures, Fee Default"
+371,Jackson,Batta,8,No,Multiple Failures
+372,Aarnav,Sen,62,Yes,"Low Attendance, Multiple Failures, Low Study + Low Marks"
+373,Pahal,Dass,71,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+374,Rajata,Pau,67,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+375,Turvi,Pradhan,0,No,"Low Average Marks, Multiple Failures"
+376,Manya,Apte,44,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+377,Liam,Nigam,50,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+378,Anirudh,Rama,40,No,"Low Attendance, Low Study + Low Marks"
+379,Nitara,Chana,37,Yes,"Low Study + Low Marks, Fee Default"
+380,Abhiram,Parmer,47,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+381,Ishwar,Halder,69,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+382,Vidhi,Sidhu,5,Yes,"Low Average Marks, Low Study + Low Marks"
+383,Netra,Pant,12,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+384,Anay,Rao,5,No,"Low Average Marks, Low Study + Low Marks"
+385,Abhiram,Parekh,30,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+386,Yahvi,Mand,43,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+387,Raagini,Mand,59,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+388,Zayyan,Kanda,69,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+389,Gaurika,Mangat,58,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+390,Anthony,Lalla,68,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+391,Robert,Kapoor,16,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+392,Unnati,Sule,1,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+393,Osha,Rai,21,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+394,Bhavna,Deshpande,70,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+395,Chameli,Ravel,68,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+396,Yashica,Karan,57,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+397,Rayaan,Mahajan,35,Yes,"Low Average Marks, Low Study + Low Marks"
+398,Reva,Gola,55,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+399,Yug,Nagy,56,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+400,Chandran,Sane,64,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+401,Aarush,Setty,1,No,Low Study + Low Marks
+402,Rachita,Samra,60,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+403,Priya,Barad,67,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+404,Ojas,Sura,17,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+405,Aadi,Wagle,2,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+406,Tarak,Shanker,6,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+407,Amol,Grover,14,No,"Low Average Marks, Low Study + Low Marks"
+408,Riya,Shukla,45,Yes,"Low Attendance, Low Study + Low Marks"
+409,Dipta,Sawhney,15,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+410,Jeremiah,Ramesh,17,No,"Low Study + Low Marks, Fee Default"
+411,Ayushman,Toor,29,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+412,Eshana,Nadkarni,51,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+413,Naveen,Dara,7,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+414,Rohan,Trivedi,45,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+415,Neelima,Vora,46,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+416,Rayaan,Sibal,29,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+417,Eshana,Goyal,15,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+418,Indrajit,Gola,63,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+419,Omya,Chakrabarti,50,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+420,Jagvi,Chandra,16,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+421,Ayush,Hans,9,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+422,Ati,Bahri,33,Yes,"Low Average Marks, Low Study + Low Marks"
+423,Yachana,Kumer,35,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+424,Pallavi,Sani,24,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+425,Nihal,Date,60,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+426,Frederick,Sibal,70,Yes,"Low Attendance, Low Study + Low Marks"
+427,Harini,Sengupta,57,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+428,Madhav,Parmer,49,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+429,Chakrika,Sem,27,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+430,Girindra,Biswas,39,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+431,Upkaar,Khatri,32,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+432,Qarin,Raman,51,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+433,Isha,Borde,62,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+434,Priya,Mishra,41,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+435,Darpan,Khatri,72,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+436,Eesha,Bhargava,6,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+437,Balhaar,Chawla,31,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+438,Ansh,Chauhan,35,No,"Low Average Marks, Low Study + Low Marks"
+439,Qarin,Natt,68,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+440,Jacob,Sridhar,44,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+441,Qadim,Sami,68,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+442,Daksha,Batra,80,Yes,"Low Attendance, Low Study + Low Marks"
+443,Geetika,Sur,50,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+444,Tanay,Desai,42,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+445,Lekha,Kota,67,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+446,Falan,Kata,45,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+447,Bhavani,Kadakia,49,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+448,Anusha,Saha,52,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+449,Jhalak,Sharaf,45,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+450,Pranav,More,22,No,"Low Average Marks, Low Study + Low Marks"
+451,Hiral,Mandal,41,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+452,Ridhi,Bir,65,No,"Low Attendance, Low Study + Low Marks"
+453,Omisha,Nayak,35,No,"Low Average Marks, Low Study + Low Marks"
+454,Sarthak,Hari,51,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+455,Rehaan,Ghosh,69,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+456,Harini,Chaudhary,70,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+457,Omisha,Parmar,59,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+458,Ekaja,Reddy,44,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+459,Veda,Borra,2,Yes,"Low Average Marks, Low Study + Low Marks"
+460,Advika,Swaminathan,14,Yes,"Low Average Marks, Low Study + Low Marks"
+461,Unni,Tiwari,73,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+462,Samaksh,Korpal,22,Yes,"Low Average Marks, Low Study + Low Marks"
+463,Meghana,Vyas,51,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+464,Yashodhara,Khurana,47,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+465,Jasmit,Kadakia,43,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+466,Ryan,Manda,5,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+467,Brinda,Viswanathan,38,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+468,Yashoda,Savant,65,Yes,"Low Attendance, Low Study + Low Marks"
+469,Zayyan,Ravel,25,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+470,Harini,Bakshi,75,Yes,"Low Attendance, Low Study + Low Marks"
+471,Hredhaan,Joshi,26,No,Low Study + Low Marks
+472,Yashica,Iyengar,3,No,"Low Average Marks, Low Study + Low Marks"
+473,Reva,Dhar,4,No,"Low Average Marks, Low Study + Low Marks"
+474,Chasmum,Som,5,No,Low Study + Low Marks
+475,Amrita,Menon,77,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+476,Eesha,Raja,30,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+477,Naveen,Arya,8,Yes,"Low Average Marks, Low Study + Low Marks"
+478,Rayaan,Raj,79,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+479,Amara,Sahni,62,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+480,Lekha,Bedi,44,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+481,Christopher,Borra,66,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+482,Alexander,Garde,74,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+483,Krisha,Sengupta,64,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+484,Oliver,Chander,69,No,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+485,Amaira,Balay,10,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+486,Tarak,Jaggi,56,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+487,Siddharth,Chauhan,6,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+488,Charan,Comar,8,No,Low Study + Low Marks
+489,Atharv,Dash,64,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+490,Rachit,Varughese,55,Yes,"Low Attendance, Low Study + Low Marks"
+491,Samar,Dani,13,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+492,Ronith,Chowdhury,5,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+493,Ekiya,Nath,23,No,"Low Average Marks, Low Study + Low Marks"
+494,Nachiket,Mand,9,No,"Low Study + Low Marks, Fee Default"
+495,Ishaan,Shere,63,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+496,Warda,Chawla,8,No,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+497,Priya,Anand,65,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+498,Ethan,Kari,37,Yes,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+499,Atharv,Singhal,34,No,"Low Average Marks, Low Study + Low Marks"
+500,Quincy,Randhawa,46,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+501,Damyanti,Jain,80,No,"Low Attendance, Fee Default, Admin Debar"
+502,Champak,Jaggi,72,Yes,"Low Attendance, Fee Default, Admin Debar"
+503,Tara,Ghosh,28,Yes,Fee Default
+504,Xavier,Dora,27,Yes,Fee Default
+505,Nilima,Bail,43,No,"Low Attendance, Fee Default, Admin Debar"
+506,Gaurangi,Sachar,2,No,Fee Default
+507,Aahana,Reddy,9,No,Fee Default
+508,Sathvik,Dhingra,71,No,"Low Attendance, Fee Default, Admin Debar"
+509,Raghav,Ben,75,No,"Low Attendance, Fee Default, Admin Debar"
+510,Urvi,Kaur,35,Yes,Fee Default
+511,Gautam,Khare,78,No,"Low Attendance, Fee Default, Admin Debar"
+512,Faris,Pandya,22,Yes,Fee Default
+513,Finn,Saxena,17,Yes,Fee Default
+514,Barkha,Chatterjee,9,No,Fee Default
+515,Zashil,Agate,78,Yes,"Low Attendance, Fee Default, Admin Debar"
+516,Harish,Wason,52,Yes,"Low Attendance, Fee Default, Admin Debar"
+517,Farhan,Natarajan,24,No,Fee Default
+518,Prisha,Wable,12,Yes,Fee Default
+519,Yashawini,Mital,14,Yes,Fee Default
+520,Avni,Goyal,30,No,Fee Default
+521,Qasim,Kumer,9,Yes,Fee Default
+522,Widisha,Pant,49,No,"Low Attendance, Fee Default, Admin Debar"
+523,Girish,Sawhney,1,Yes,Fee Default
+524,Ekanta,Setty,44,No,"Low Attendance, Fee Default, Admin Debar"
+525,Girindra,Badami,37,Yes,Fee Default
+526,Naveen,Kaur,38,No,Fee Default
+527,Garima,Bhavsar,79,No,"Low Attendance, Fee Default, Admin Debar"
+528,Fariq,Vohra,39,No,Fee Default
+529,Adya,Joshi,16,Yes,Fee Default
+530,Imaran,Merchant,66,No,"Low Attendance, Fee Default, Admin Debar"
+531,Nitara,Mahal,17,Yes,"Low Average Marks, Low Study + Low Marks, Fee Default"
+532,Harshil,Samra,10,Yes,Fee Default
+533,Nihal,Badami,38,Yes,Fee Default
+534,Arunima,Johal,0,Yes,Fee Default
+535,Yagnesh,Brahmbhatt,25,Yes,Fee Default
+536,Jagrati,Mammen,78,No,"Low Attendance, Fee Default, Admin Debar"
+537,Chakradev,Shah,13,No,Fee Default
+538,Zaitra,Bhattacharyya,80,No,"Low Attendance, Fee Default, Admin Debar"
+539,Nihal,Singh,53,No,"Low Attendance, Fee Default, Admin Debar"
+540,Daksh,Dhar,66,Yes,"Low Attendance, Fee Default, Admin Debar"
+541,Anamika,Dhar,32,Yes,Fee Default
+542,Zarna,Doshi,27,No,Fee Default
+543,Pushti,Sheth,31,No,Fee Default
+544,Anika,Dutta,24,Yes,Fee Default
+545,Praneel,Apte,61,No,"Low Attendance, Fee Default, Admin Debar"
+546,Sara,Oommen,75,No,"Low Attendance, Fee Default, Admin Debar"
+547,Udyati,Viswanathan,50,No,"Low Attendance, Fee Default, Admin Debar"
+548,Andrew,Suresh,47,No,"Low Attendance, Fee Default, Admin Debar"
+549,Ekapad,Saini,75,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+550,Dhruv,Pall,64,Yes,"Low Attendance, Fee Default, Admin Debar"
+551,Shivansh,Parmer,49,Yes,"Low Attendance, Fee Default, Admin Debar"
+552,Wridesh,Venkatesh,66,Yes,"Low Attendance, Fee Default, Admin Debar"
+553,Kritika,Vyas,48,No,"Low Attendance, Fee Default, Admin Debar"
+554,Matthew,Sachdev,34,No,Fee Default
+555,Sudiksha,Lata,54,No,"Low Attendance, Fee Default, Admin Debar"
+556,Aadi,Hayer,25,No,Fee Default
+557,Panini,Dyal,20,Yes,Fee Default
+558,Forum,Randhawa,74,No,"Low Attendance, Fee Default, Admin Debar"
+559,Dayita,Basu,32,Yes,Fee Default
+560,Damyanti,Merchant,71,No,"Low Attendance, Fee Default, Admin Debar"
+561,Chatresh,Mammen,20,Yes,Fee Default
+562,Zilmil,Merchant,70,Yes,"Low Attendance, Fee Default, Admin Debar"
+563,Imaran,Barman,3,Yes,Fee Default
+564,Vaishnavi,Mall,71,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+565,Amrita,Shenoy,66,No,"Low Attendance, Fee Default, Admin Debar"
+566,Hamsini,Khurana,46,No,"Low Attendance, Fee Default, Admin Debar"
+567,Alka,Patel,66,No,"Low Attendance, Fee Default, Admin Debar"
+568,Nidra,Ranganathan,52,No,"Low Attendance, Fee Default, Admin Debar"
+569,Oviya,Dash,69,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+570,Lakshit,Barad,28,No,Fee Default
+571,Robert,Goyal,39,No,Fee Default
+572,Anita,Sagar,47,Yes,"Low Attendance, Fee Default, Admin Debar"
+573,Bhavani,Gupta,10,No,"Low Average Marks, Multiple Failures, Fee Default"
+574,Tristan,Chaudhary,3,Yes,Fee Default
+575,Reyansh,Mittal,31,Yes,Fee Default
+576,Vasudha,Bhandari,52,Yes,"Low Attendance, Fee Default, Admin Debar"
+577,Neelima,Nori,69,No,"Low Attendance, Fee Default, Admin Debar"
+578,Janani,Yogi,61,No,"Low Attendance, Fee Default, Admin Debar"
+579,Dalbir,Bhargava,61,Yes,"Low Attendance, Fee Default, Admin Debar"
+580,Yatin,Krishnamurthy,79,Yes,"Low Attendance, Fee Default, Admin Debar"
+581,Brijesh,Narayanan,12,Yes,Fee Default
+582,Zayan,Thaman,33,Yes,Fee Default
+583,Jagdish,Tripathi,5,No,Fee Default
+584,Hema,Aggarwal,12,Yes,Fee Default
+585,Pranit,Mannan,33,No,"Multiple Failures, Fee Default"
+586,Rachana,Goyal,48,Yes,"Low Attendance, Fee Default, Admin Debar"
+587,Dhriti,Balay,0,Yes,Fee Default
+588,Yamini,Randhawa,28,Yes,Fee Default
+589,Bhavya,Varghese,34,Yes,Fee Default
+590,Zayyan,Bhattacharyya,39,Yes,Fee Default
+591,Amara,Banerjee,28,No,Fee Default
+592,Dalbir,Som,38,Yes,Fee Default
+593,Ranveer,Baria,10,No,Fee Default
+594,Oni,Choudhary,70,No,"Low Attendance, Fee Default, Admin Debar"
+595,Naveen,Parsa,79,Yes,"Low Attendance, Fee Default, Admin Debar"
+596,Vihaan,Cheema,57,Yes,"Low Attendance, Fee Default, Admin Debar"
+597,Abha,Vaidya,19,No,Fee Default
+598,Veda,Bansal,36,No,Fee Default
+599,William,Swamy,54,No,"Low Attendance, Fee Default, Admin Debar"
+600,Janya,Dutt,24,Yes,Fee Default
+601,Pranav,Pingle,67,No,"Low Attendance, Fee Default, Admin Debar"
+602,Aadhya,Kumar,34,Yes,Fee Default
+603,Rachita,Sarna,54,Yes,"Low Attendance, Fee Default, Admin Debar"
+604,Naveen,Datta,36,Yes,Fee Default
+605,Yashasvi,Kumar,67,Yes,"Low Attendance, Fee Default, Admin Debar"
+606,Mahika,Sachar,77,No,"Low Attendance, Fee Default, Admin Debar"
+607,Frederick,Mutti,36,No,Fee Default
+608,Kashvi,Kala,65,Yes,"Low Attendance, Fee Default, Admin Debar"
+609,Mitali,Sama,8,Yes,Fee Default
+610,Atharv,Nadig,10,No,Fee Default
+611,Harinakshi,Upadhyay,77,Yes,"Low Attendance, Fee Default, Admin Debar"
+612,Vanya,Wali,64,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+613,Gayathri,Narayan,49,No,"Low Attendance, Fee Default, Admin Debar"
+614,Gunbir,Jha,7,Yes,Fee Default
+615,Anirudh,Bail,65,Yes,"Low Attendance, Fee Default, Admin Debar"
+616,Aadhya,Natt,72,Yes,"Low Attendance, Fee Default, Admin Debar"
+617,Ishanvi,Saraf,44,No,"Low Attendance, Fee Default, Admin Debar"
+618,Vinaya,Upadhyay,14,No,"Low Average Marks, Multiple Failures, Fee Default"
+619,Thomas,Batra,30,No,Fee Default
+620,Ekansh,Baria,63,Yes,"Low Attendance, Fee Default, Admin Debar"
+621,Ekantika,Panchal,16,No,Fee Default
+622,Jeremiah,Purohit,70,Yes,"Low Attendance, Fee Default, Admin Debar"
+623,Triveni,Wali,74,Yes,"Low Attendance, Fee Default, Admin Debar"
+624,Ekapad,Kari,45,Yes,"Low Attendance, Fee Default, Admin Debar"
+625,Jagvi,Mani,69,No,"Low Attendance, Fee Default, Admin Debar"
+626,Siddharth,Subramanian,69,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+627,Zarna,Biswas,51,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+628,Abeer,Sehgal,51,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+629,Raagini,Maharaj,65,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+630,Mugdha,Viswanathan,61,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+631,Arunima,Gole,61,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+632,Nitara,Nazareth,65,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+633,Kashvi,Gara,74,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+634,Nidra,Ravi,49,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+635,Parth,Bandi,60,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+636,Faras,Lall,56,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+637,Matthew,Saxena,62,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+638,Viraj,Magar,62,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+639,Siya,Kurian,57,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+640,Ekta,Thakkar,50,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+641,Jalsa,Rai,48,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+642,Tanay,Varughese,50,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+643,Ethan,Raj,65,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+644,Ansh,Bala,56,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+645,Isaac,Jaggi,73,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+646,Siddharth,Nanda,71,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+647,Veda,Master,72,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+648,Saanvi,Krishna,66,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+649,Abeer,Ben,63,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+650,Rayaan,Sur,65,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+651,Samar,Subramaniam,55,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+652,Balhaar,Mohanty,51,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+653,Yutika,Bava,76,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+654,Kala,Ahluwalia,80,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+655,Varsha,Rout,77,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+656,Mahika,Dasgupta,64,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+657,Charan,Ratti,57,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+658,Ekanta,Chaudhari,74,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+659,Ekapad,Devi,65,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+660,Lavanya,Saraf,56,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+661,Onveer,Andra,64,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+662,Yochana,Chakraborty,72,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+663,Michael,Barad,67,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+664,Max,Baral,58,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+665,Vasatika,Roy,53,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+666,Vaishnavi,Bora,70,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+667,Nathan,Bal,72,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+668,Krisha,Krishnan,52,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+669,Chaitaly,Saini,54,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+670,Leena,Balakrishnan,67,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+671,Aarini,Raju,71,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+672,Ekavir,Bala,70,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+673,Pratyush,Viswanathan,61,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+674,Quincy,Lalla,54,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+675,Mahika,Johal,71,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+676,Logan,Bose,57,Yes,"Low Attendance, Low Average Marks, High Risk Combo"
+677,Aarini,Nath,56,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+678,Frado,Subramanian,71,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+679,Vihaan,Bhattacharyya,55,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+680,Widisha,Vig,54,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+681,Meghana,Gaba,52,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+682,Bhavani,Basu,50,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+683,Qarin,Sani,58,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+684,Onkar,Natt,59,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+685,Parth,Vohra,60,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+686,Bimala,Upadhyay,62,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+687,Eshana,Behl,70,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+688,Hemani,Solanki,63,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+689,Jonathan,Singhal,56,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+690,Ethan,Wali,61,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+691,Urmi,Mann,53,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+692,Devansh,Sharaf,78,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+693,Ryan,Kamdar,67,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+694,Keya,Pillay,62,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+695,Xalak,Raju,78,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+696,Siya,Vala,79,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+697,Chaman,Hegde,80,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+698,Anika,Keer,64,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+699,Aditya,Kant,72,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+700,Adya,Agarwal,54,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+701,Ekantika,Soman,64,Yes,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+702,Idika,Yogi,71,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+703,Warjas,Johal,48,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+704,Ranveer,Badal,64,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+705,Ethan,Radhakrishnan,79,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+706,Aarush,Saini,52,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+707,Dipta,Deep,53,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+708,Urishilla,Bhandari,71,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+709,Anusha,Shenoy,78,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+710,Leena,Iyer,78,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+711,Lila,Pandit,73,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+712,Bhanumati,Wagle,53,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+713,Megha,Karpe,62,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+714,Bimala,Shenoy,72,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+715,Pratyush,Barad,47,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+716,Arin,Boase,52,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+717,Mason,Goyal,74,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+718,Yashvi,Kakar,62,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+719,Quincy,Merchant,50,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+720,Sara,Dyal,77,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+721,Ucchal,Varty,66,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+722,Vidhi,Shere,72,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+723,Gagan,Gera,65,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+724,Daniel,Barad,53,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+725,Yutika,Kade,65,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+726,Ekapad,Parmer,80,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+727,Udarsh,Singhal,67,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+728,Avi,Chanda,56,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+729,Samesh,Khare,54,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+730,Chatresh,Kapadia,71,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+731,Hiral,Chowdhury,68,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+732,Dalaja,Nath,63,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+733,Brinda,Kothari,55,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+734,Ekalinga,Sahota,71,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+735,Advay,Bera,72,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+736,Anita,Golla,54,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+737,Ekansh,Varghese,52,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+738,Chaitaly,Gokhale,62,Yes,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+739,Frado,Murthy,74,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+740,Prisha,Agate,62,No,"Low Attendance, Low Average Marks, High Risk Combo"
+741,Benjamin,Lall,61,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+742,Jyoti,Sastry,70,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+743,Deepa,Krishnamurthy,49,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+744,Bachittar,Chakrabarti,59,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+745,Harish,Sura,61,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+746,Lakshmi,Savant,61,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+747,Falguni,Dani,55,Yes,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+748,Kai,Subramanian,53,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+749,Dev,Seshadri,69,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+750,Yadavi,Hans,66,No,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+751,Nilima,Mani,59,No,"Low Attendance, Fee Default, Admin Debar"
+752,Guneet,Walia,80,Yes,"Low Attendance, Fee Default, Admin Debar"
+753,Varenya,Mallick,60,No,"Low Attendance, Fee Default, Admin Debar"
+754,Inaya,Cherian,68,Yes,"Low Attendance, Fee Default, Admin Debar"
+755,Krisha,Saraf,75,No,"Low Attendance, Fee Default, Admin Debar"
+756,Madhavi,Comar,69,Yes,"Low Attendance, Fee Default, Admin Debar"
+757,Lohit,Gokhale,64,No,"Low Attendance, Fee Default, Admin Debar"
+758,Harsh,Subramanian,78,Yes,"Low Attendance, Fee Default, Admin Debar"
+759,Anthony,Mann,73,Yes,"Low Attendance, Fee Default, Admin Debar"
+760,Chavvi,Ramakrishnan,58,Yes,"Low Attendance, Fee Default, Admin Debar"
+761,Aditya,Pal,67,No,"Low Attendance, Fee Default, Admin Debar"
+762,Abha,Chaudhary,64,Yes,"Low Attendance, Fee Default, Admin Debar"
+763,Gopal,Varma,65,No,"Low Attendance, Fee Default, Admin Debar"
+764,Chaitanya,Sankaran,65,Yes,"Low Attendance, Fee Default, Admin Debar"
+765,Tanveer,Padmanabhan,80,Yes,"Low Attendance, Fee Default, Admin Debar"
+766,Ikbal,Sidhu,76,No,"Low Attendance, Fee Default, Admin Debar"
+767,Varsha,Gade,76,No,"Low Attendance, Fee Default, Admin Debar"
+768,Sai,Agrawal,79,No,"Low Attendance, Fee Default, Admin Debar"
+769,Nirja,Dhawan,64,Yes,"Low Attendance, Fee Default, Admin Debar"
+770,Yahvi,Gandhi,65,No,"Low Attendance, Fee Default, Admin Debar"
+771,Sathvik,Butala,63,Yes,"Low Attendance, Fee Default, Admin Debar"
+772,Henry,Barman,71,No,"Low Attendance, Fee Default, Admin Debar"
+773,Hemang,Krishnan,67,No,"Low Attendance, Fee Default, Admin Debar"
+774,Jagat,Sathe,65,No,"Low Attendance, Fee Default, Admin Debar"
+775,Nidhi,Soman,72,No,"Low Attendance, Fee Default, Admin Debar"
+776,Varsha,Sachdev,60,Yes,"Low Attendance, Fee Default, Admin Debar"
+777,Pranav,Jain,78,No,"Low Attendance, Fee Default, Admin Debar"
+778,Kai,Chahal,78,Yes,"Low Attendance, Fee Default, Admin Debar"
+779,Tanmayi,Trivedi,60,No,"Low Attendance, Fee Default, Admin Debar"
+780,Aryan,Devi,65,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+781,Oliver,Yadav,58,No,"Low Attendance, Fee Default, Admin Debar"
+782,Wyatt,Pal,75,Yes,"Low Attendance, Fee Default, Admin Debar"
+783,Megha,Murthy,62,No,"Low Attendance, Fee Default, Admin Debar"
+784,Advay,Verma,66,Yes,"Low Attendance, Fee Default, Admin Debar"
+785,Jai,Memon,68,No,"Low Attendance, Fee Default, Admin Debar"
+786,Anthony,Wason,65,No,"Low Attendance, Fee Default, Admin Debar"
+787,Mohini,Taneja,76,Yes,"Low Attendance, Fee Default, Admin Debar"
+788,Barkha,Doctor,62,No,"Low Attendance, Fee Default, Admin Debar"
+789,Arin,Mammen,79,Yes,"Low Attendance, Fee Default, Admin Debar"
+790,Praneel,Natt,78,Yes,"Low Attendance, Fee Default, Admin Debar"
+791,Orinder,Ghosh,65,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+792,Abhimanyu,Thaman,79,Yes,"Low Attendance, Fee Default, Admin Debar"
+793,Ikshita,Subramaniam,66,No,"Low Attendance, Fee Default, Admin Debar"
+794,Tristan,Rao,62,No,"Low Attendance, Fee Default, Admin Debar"
+795,Mekhala,Sethi,61,Yes,"Low Attendance, Fee Default, Admin Debar"
+796,Gaurang,Peri,68,Yes,"Low Attendance, Fee Default, Admin Debar"
+797,Daksha,Chahal,60,Yes,"Low Attendance, Fee Default, Admin Debar"
+798,Edhitha,Lalla,69,Yes,"Low Attendance, Fee Default, Admin Debar"
+799,Ekbal,Sahni,63,Yes,"Low Attendance, Fee Default, Admin Debar"
+800,Ekalinga,Dass,72,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+801,George,Ganesh,66,Yes,"Low Attendance, Fee Default, Admin Debar"
+802,Sanaya,Buch,69,No,"Low Attendance, Fee Default, Admin Debar"
+803,Bhavika,Ahluwalia,77,Yes,"Low Attendance, Fee Default, Admin Debar"
+804,Jackson,Subramanian,69,Yes,"Low Attendance, Fee Default, Admin Debar"
+805,Kavya,Mandal,74,No,"Low Attendance, Fee Default, Admin Debar"
+806,Shivansh,Gupta,73,No,"Low Attendance, Fee Default, Admin Debar"
+807,Sai,Badal,79,No,"Low Attendance, Fee Default, Admin Debar"
+808,Advay,Mangal,63,Yes,"Low Attendance, Fee Default, Admin Debar"
+809,Samarth,Om,68,Yes,"Low Attendance, Fee Default, Admin Debar"
+810,Parth,Arora,77,Yes,"Low Attendance, Fee Default, Admin Debar"
+811,Baljiwan,Menon,64,No,"Low Attendance, Fee Default, Admin Debar"
+812,Wridesh,Bhatnagar,68,No,"Low Attendance, Fee Default, Admin Debar"
+813,Oliver,Patla,60,No,"Low Attendance, Fee Default, Admin Debar"
+814,Sarthak,Sidhu,79,Yes,"Low Attendance, Fee Default, Admin Debar"
+815,Zashil,Upadhyay,66,Yes,"Low Attendance, Fee Default, Admin Debar"
+816,Xavier,Mukherjee,76,No,"Low Attendance, Fee Default, Admin Debar"
+817,Yatan,Mann,62,Yes,"Low Attendance, Fee Default, Admin Debar"
+818,Balveer,Kapoor,63,No,"Low Attendance, Fee Default, Admin Debar"
+819,Meera,Nadkarni,60,Yes,"Low Attendance, Fee Default, Admin Debar"
+820,Hiral,Mannan,65,No,"Low Attendance, Fee Default, Admin Debar"
+821,Darpan,Ahuja,62,Yes,"Low Attendance, Fee Default, Admin Debar"
+822,Amaira,Sankaran,74,No,"Low Attendance, Fee Default, Admin Debar"
+823,Aachal,Patil,61,No,"Low Attendance, Fee Default, Admin Debar"
+824,Yashoda,Pathak,80,No,"Low Attendance, Fee Default, Admin Debar"
+825,Pallavi,Rai,67,Yes,"Low Attendance, Fee Default, Admin Debar"
+826,Bina,Mand,78,Yes,"Low Attendance, Fee Default, Admin Debar"
+827,Vritti,Mangat,56,Yes,"Low Attendance, Fee Default, Admin Debar"
+828,Gagan,Shah,80,No,"Low Attendance, Fee Default, Admin Debar"
+829,Faras,Saini,78,Yes,"Low Attendance, Fee Default, Admin Debar"
+830,Fitan,Chaudhari,76,No,"Low Attendance, Fee Default, Admin Debar"
+831,Fitan,Kulkarni,72,Yes,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+832,Oni,Bakshi,62,Yes,"Low Attendance, Fee Default, Admin Debar"
+833,Charvi,Deshmukh,78,Yes,"Low Attendance, Fee Default, Admin Debar"
+834,Madhavi,Kannan,62,No,"Low Attendance, Fee Default, Admin Debar"
+835,Forum,Chandran,65,No,"Low Attendance, Fee Default, Admin Debar"
+836,Raagini,Morar,62,No,"Low Attendance, Fee Default, Admin Debar"
+837,Bhanumati,Oza,70,No,"Low Attendance, Fee Default, Admin Debar"
+838,Rajata,Divan,67,Yes,"Low Attendance, Fee Default, Admin Debar"
+839,Yashoda,Pandya,72,No,"Low Attendance, Fee Default, Admin Debar"
+840,Balvan,Bhasin,77,No,"Low Attendance, Fee Default, Admin Debar"
+841,Harish,Koshy,80,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+842,Aryan,Uppal,80,No,"Low Attendance, Fee Default, Admin Debar"
+843,Unnati,Ramesh,64,Yes,"Low Attendance, Fee Default, Admin Debar"
+844,Bhavini,Kaur,63,Yes,"Low Attendance, Fee Default, Admin Debar"
+845,Fitan,Palan,60,No,"Low Attendance, Fee Default, Admin Debar"
+846,Osha,Raval,78,No,"Low Attendance, Fee Default, Admin Debar"
+847,Thomas,Suresh,76,No,"Low Attendance, Fee Default, Admin Debar"
+848,Bhavini,Parikh,72,No,"Low Attendance, Fee Default, Admin Debar"
+849,Indrajit,Majumdar,66,Yes,"Low Attendance, Fee Default, Admin Debar"
+850,Dhriti,Sheth,65,Yes,"Low Attendance, Fee Default, Admin Debar"
+851,Nidhi,Rege,71,Yes,"Low Attendance, Fee Default, Admin Debar"
+852,Fiyaz,Varughese,75,Yes,"Low Attendance, Fee Default, Admin Debar"
+853,Unnati,Sankaran,80,No,"Low Attendance, Fee Default, Admin Debar"
+854,Vedhika,Karpe,62,No,"Low Attendance, Fee Default, Admin Debar"
+855,Urvi,Sankaran,77,No,"Low Attendance, Fee Default, Admin Debar"
+856,Diya,Parmar,67,No,"Low Attendance, Fee Default, Admin Debar"
+857,Sathvik,Dutta,80,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+858,Shivani,Parmer,72,No,"Low Attendance, Fee Default, Admin Debar"
+859,Atharv,Devan,68,Yes,"Low Attendance, Fee Default, Admin Debar"
+860,Ayaan,Bhargava,73,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+861,Manthan,Upadhyay,63,Yes,"Low Attendance, Fee Default, Admin Debar"
+862,Gautam,Uppal,76,No,"Low Attendance, Fee Default, Admin Debar"
+863,Ekansh,Jain,80,No,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+864,Vamakshi,Bajaj,75,Yes,"Low Attendance, Fee Default, Admin Debar"
+865,Bishakha,Sen,76,No,"Low Attendance, Fee Default, Admin Debar"
+866,Frado,Mani,67,Yes,"Low Attendance, Fee Default, Admin Debar"
+867,Anya,Sem,59,No,"Low Attendance, Fee Default, Admin Debar"
+868,Mugdha,Gera,64,No,"Low Attendance, Fee Default, Admin Debar"
+869,Suhani,Oza,69,Yes,"Low Attendance, Fee Default, Admin Debar"
+870,Wyatt,Seshadri,73,Yes,"Low Attendance, Fee Default, Admin Debar"
+871,Luke,Dhingra,72,No,"Low Attendance, Fee Default, Admin Debar"
+872,Ryan,Balasubramanian,63,Yes,"Low Attendance, Fee Default, Admin Debar"
+873,Veda,Doshi,72,Yes,"Low Attendance, Fee Default, Admin Debar"
+874,Brinda,Nagar,62,No,"Low Attendance, Fee Default, Admin Debar"
+875,Daksha,Lata,78,No,"Low Attendance, Fee Default, Admin Debar"
+876,Krishna,Bhalla,8,No,None
+877,Daksh,Master,47,Yes,"Low Attendance, Fee Default, Admin Debar"
+878,Janaki,De,45,No,Low Attendance
+879,Triveni,Dhingra,7,Yes,None
+880,Chaman,Raja,19,Yes,None
+881,Charita,Brahmbhatt,25,Yes,None
+882,Pranav,Talwar,24,No,None
+883,Yash,Dasgupta,12,Yes,None
+884,Praneel,Mishra,41,Yes,Low Attendance
+885,Henry,Walla,40,No,"Low Attendance, Multiple Failures"
+886,Jeremiah,Basu,55,No,"Low Attendance, Fee Default, Admin Debar"
+887,Yamini,Ghosh,50,Yes,Low Attendance
+888,Nathaniel,Varty,22,No,Multiple Failures
+889,Shivansh,Johal,39,Yes,None
+890,Irya,Dora,42,No,Fee Default
+891,Yashvi,Tiwari,35,Yes,None
+892,Xavier,Shankar,10,Yes,None
+893,Finn,Balay,68,Yes,Low Attendance
+894,Unni,Sodhi,31,Yes,None
+895,Darsh,Chadha,75,Yes,Low Attendance
+896,William,Swamy,57,Yes,Low Attendance
+897,Zarna,Ganguly,68,No,Low Attendance
+898,Faras,Vig,23,Yes,None
+899,Nilima,Prabhu,52,Yes,Low Attendance
+900,Mohammed,Sahota,0,Yes,"Low Average Marks, Low Study + Low Marks"
+901,Yachana,Raju,70,Yes,Low Attendance
+902,Caleb,Sridhar,24,No,Fee Default
+903,Girish,Subramanian,37,Yes,None
+904,Azad,Basu,33,No,None
+905,Isha,Choudhary,41,Yes,Low Attendance
+906,Nandini,Trivedi,65,No,Low Attendance
+907,Mohini,Zacharia,36,No,None
+908,David,Bal,40,Yes,Low Attendance
+909,Tanveer,Bhat,38,Yes,Low Attendance
+910,Jagdish,Varughese,2,Yes,Fee Default
+911,Anirudh,Bhakta,24,No,None
+912,Ryan,Thakur,30,No,None
+913,Devansh,Kala,27,No,Fee Default
+914,Harshil,Kunda,46,Yes,"Low Attendance, Fee Default, Admin Debar"
+915,Lavanya,Golla,21,Yes,Fee Default
+916,Azaan,Mani,61,Yes,Low Attendance
+917,Zarna,Deshpande,69,Yes,Low Attendance
+918,Joshua,Prasad,9,Yes,None
+919,Anirudh,Dutt,24,No,Fee Default
+920,Pooja,Ramachandran,6,Yes,None
+921,Tanay,Muni,18,Yes,None
+922,Manya,Chad,64,No,Low Attendance
+923,Rohan,Chanda,29,Yes,"Low Average Marks, Multiple Failures"
+924,Anika,Dara,44,Yes,Low Attendance
+925,Noah,Sule,14,Yes,None
+926,Yutika,Krishnamurthy,0,Yes,Fee Default
+927,Sarthak,Oommen,0,Yes,"Low Average Marks, Multiple Failures, Fee Default"
+928,Udant,Taneja,24,No,None
+929,Aditya,Vohra,19,No,None
+930,Anya,Nanda,72,No,"Low Attendance, Fee Default, Admin Debar"
+931,Vinaya,Gaba,62,Yes,Low Attendance
+932,Mohini,Chaudhry,28,No,None
+933,Rayaan,Konda,26,Yes,Fee Default
+934,Vedant,Ghose,2,Yes,None
+935,Radha,Ram,56,Yes,Low Attendance
+936,Azad,Madan,39,Yes,None
+937,Sara,Dash,24,No,None
+938,Radhika,Shanker,52,No,Low Attendance
+939,Champak,Patla,27,No,None
+940,Pahal,Parsa,44,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+941,Christopher,Chawla,47,Yes,Low Attendance
+942,Charles,Natt,46,No,"Low Attendance, Fee Default, Admin Debar"
+943,Qarin,Kibe,12,No,None
+944,Waida,Thakur,67,No,"Low Attendance, Fee Default, Admin Debar"
+945,Maanas,Walia,29,Yes,None
+946,Eshana,Mannan,4,No,None
+947,Vedhika,Salvi,11,No,None
+948,Vrinda,Bedi,49,No,Low Attendance
+949,Zinal,Keer,0,No,None
+950,Zaid,Naidu,72,No,"Low Attendance, Fee Default, Admin Debar"
+951,Chandani,Narang,13,Yes,None
+952,Aadhya,Chaudhary,47,No,Low Attendance
+953,Keya,Balasubramanian,74,No,Low Attendance
+954,Warda,Singh,53,Yes,Low Attendance
+955,Shaurya,Bath,6,Yes,None
+956,Charles,Sekhon,78,Yes,"Low Attendance, Fee Default, Admin Debar"
+957,Laksh,Soman,33,No,None
+958,Ishani,Sura,65,Yes,Low Attendance
+959,Vivaan,Acharya,48,Yes,Low Attendance
+960,Hemal,Ghosh,60,No,Low Attendance
+961,Gautam,Kapur,79,Yes,"Low Attendance, Fee Default, Admin Debar"
+962,William,Dhawan,66,Yes,Low Attendance
+963,Mitali,Acharya,68,Yes,"Low Attendance, Fee Default, Admin Debar"
+964,Vyanjana,Krish,26,Yes,None
+965,Kamala,Rajagopalan,70,Yes,Low Attendance
+966,Azad,Zacharia,19,No,None
+967,Owen,Pau,19,Yes,"Low Average Marks, Multiple Failures"
+968,Inaya,Balasubramanian,13,Yes,None
+969,Wriddhish,Kaur,60,No,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+970,Faris,Khosla,32,Yes,None
+971,Wriddhish,Dash,38,Yes,None
+972,Ishanvi,Dhaliwal,12,No,None
+973,Avi,Dave,29,Yes,Fee Default
+974,Anamika,Shankar,5,No,None
+975,Krishna,Ratti,38,No,Fee Default
+976,Vedant,Mandal,57,Yes,Low Attendance
+977,Sathvik,Kashyap,71,No,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+978,Aarav,Mittal,60,No,Low Attendance
+979,Bhavika,Patla,54,Yes,Low Attendance
+980,Mason,Raju,71,Yes,Low Attendance
+981,Lakshit,Dada,47,No,"Low Attendance, Low Study + Low Marks"
+982,Fiyaz,Ramakrishnan,79,Yes,"Low Attendance, Fee Default, Admin Debar"
+983,Baghyawati,Pau,52,No,Low Attendance
+984,Hiral,Taneja,44,No,"Low Attendance, Fee Default, Admin Debar"
+985,Vrinda,Hari,61,No,Low Attendance
+986,Jairaj,Sahni,63,Yes,Low Attendance
+987,Yutika,Nath,68,No,Low Attendance
+988,Zansi,Dutt,33,Yes,None
+989,Xiti,Sengupta,33,Yes,"Multiple Failures, Low Study + Low Marks"
+990,Pushti,Sankar,9,No,None
+991,Vivaan,Mitra,77,No,"Low Attendance, Fee Default, Admin Debar"
+992,Logan,Bassi,10,Yes,None
+993,Abeer,Bumb,58,Yes,Low Attendance
+994,Aashi,Dubey,75,No,Low Attendance
+995,Ayush,Madan,9,No,None
+996,Shivani,Gokhale,53,Yes,"Low Attendance, Fee Default, Admin Debar"
+997,Dhruv,Hayre,2,Yes,Fee Default
+998,Krisha,Bajwa,9,Yes,None
+999,Lakshmi,Mitra,62,No,Low Attendance
+1000,Bhavya,Madan,0,No,"Multiple Failures, Fee Default"

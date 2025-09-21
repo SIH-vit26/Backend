@@ -1,0 +1,1001 @@
+id,first_name,last_name,email,fee_paid,fee_pending,fee_due_date,debar_risk
+1,Ijaya,Naidu,ijaya.naidu@example.com,97199,2801,2025-11-06,Low Attendance
+2,Mekhala,Khare,mekhala.khare@example.com,55853,44147,2025-05-27,Low Attendance
+3,Tarak,Edwin,tarak.edwin@example.com,87660,12340,2025-10-31,Low Attendance
+4,Veer,Sabharwal,veer.sabharwal@example.com,21627,78373,2025-04-24,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+5,George,Savant,george.savant@example.com,34633,65367,2025-08-02,"Low Attendance, Fee Default, Admin Debar"
+6,Anika,Choudhury,anika.choudhury@example.com,52670,47330,2025-11-19,Low Attendance
+7,Ekta,Natt,ekta.natt@example.com,58547,41453,2025-05-15,Low Attendance
+8,Jairaj,Brahmbhatt,jairaj.brahmbhatt@example.com,48264,51736,2025-06-04,"Low Attendance, Fee Default, Admin Debar"
+9,Faras,Deo,faras.deo@example.com,32775,67225,2025-09-12,"Low Attendance, Fee Default, Admin Debar"
+10,Hemani,Mistry,hemani.mistry@example.com,82034,17966,2025-09-26,Low Attendance
+11,Maanav,Reddy,maanav.reddy@example.com,63357,36643,2025-09-08,Low Attendance
+12,Qasim,Sachdev,qasim.sachdev@example.com,39683,60317,2025-07-15,"Low Attendance, Fee Default, Admin Debar"
+13,Arunima,Warrior,arunima.warrior@example.com,56215,43785,2025-09-01,Low Attendance
+14,Quincy,Thakur,quincy.thakur@example.com,56223,43777,2025-11-11,Low Attendance
+15,Tejas,Natt,tejas.natt@example.com,54160,45840,2025-04-10,Low Attendance
+16,Vansha,Roy,vansha.roy@example.com,83893,16107,2025-04-04,Low Attendance
+17,Hardik,Dutta,hardik.dutta@example.com,54292,45708,2025-09-19,Low Attendance
+18,Yadavi,Mann,yadavi.mann@example.com,93968,6032,2025-09-13,Low Attendance
+19,Faris,Pall,faris.pall@example.com,94079,5921,2025-04-23,Low Attendance
+20,Saanvi,Wason,saanvi.wason@example.com,90170,9830,2025-08-20,Low Attendance
+21,Waida,Mall,waida.mall@example.com,56961,43039,2025-05-02,Low Attendance
+22,Finn,Balay,finn.balay@example.com,55393,44607,2025-10-31,Low Attendance
+23,Ansh,Sastry,ansh.sastry@example.com,49369,50631,2025-06-17,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+24,Oni,Yogi,oni.yogi@example.com,85141,14859,2025-05-25,Low Attendance
+25,Chanakya,Wali,chanakya.wali@example.com,47300,52700,2025-10-07,Low Attendance
+26,Utkarsh,Apte,utkarsh.apte@example.com,45802,54198,2025-08-22,"Low Attendance, Fee Default, Admin Debar"
+27,Yadavi,Shanker,yadavi.shanker@example.com,30719,69281,2025-12-16,Low Attendance
+28,Darsh,Raj,darsh.raj@example.com,97170,2830,2025-12-10,Low Attendance
+29,Pavani,Bahri,pavani.bahri@example.com,47373,52627,2025-11-26,Low Attendance
+30,Oscar,Kothari,oscar.kothari@example.com,60208,39792,2025-09-23,Low Attendance
+31,Adya,Jhaveri,adya.jhaveri@example.com,36603,63397,2025-05-20,"Low Attendance, Fee Default, Admin Debar"
+32,Lajita,Kari,lajita.kari@example.com,26112,73888,2025-05-06,"Low Attendance, Fee Default, Admin Debar"
+33,Hema,Mangat,hema.mangat@example.com,29191,70809,2025-06-02,"Low Attendance, Fee Default, Admin Debar"
+34,Janaki,Sawhney,janaki.sawhney@example.com,38786,61214,2025-12-14,Low Attendance
+35,Azad,Gole,azad.gole@example.com,80035,19965,2025-09-07,Low Attendance
+36,Wahab,Sodhi,wahab.sodhi@example.com,36210,63790,2025-11-19,"Low Attendance, Multiple Failures"
+37,Ayaan,Tailor,ayaan.tailor@example.com,30323,69677,2025-09-24,Low Attendance
+38,Warhi,Nayak,warhi.nayak@example.com,26723,73277,2025-10-15,Low Attendance
+39,Bimala,Sachar,bimala.sachar@example.com,87408,12592,2025-06-09,Low Attendance
+40,Indrajit,Bath,indrajit.bath@example.com,32362,67638,2025-04-30,"Low Attendance, Fee Default, Admin Debar"
+41,Zehaan,Thakkar,zehaan.thakkar@example.com,40772,59228,2025-09-18,Low Attendance
+42,Orinder,Varughese,orinder.varughese@example.com,84074,15926,2025-11-10,Low Attendance
+43,Urvashi,Sastry,urvashi.sastry@example.com,43382,56618,2025-10-29,Low Attendance
+44,Vasatika,Chandra,vasatika.chandra@example.com,49934,50066,2025-09-12,"Low Attendance, Fee Default, Admin Debar"
+45,Ria,Lall,ria.lall@example.com,48102,51898,2025-05-21,"Low Attendance, Fee Default, Admin Debar"
+46,Damyanti,Khalsa,damyanti.khalsa@example.com,48887,51113,2025-06-08,"Low Attendance, Low Study + Low Marks, Fee Default, Admin Debar"
+47,Bachittar,Dube,bachittar.dube@example.com,75329,24671,2025-04-08,Low Attendance
+48,Gayathri,Sarraf,gayathri.sarraf@example.com,33066,66934,2025-07-27,"Low Attendance, Fee Default, Admin Debar"
+49,Vrinda,Joshi,vrinda.joshi@example.com,52165,47835,2025-06-10,Low Attendance
+50,Patrick,Korpal,patrick.korpal@example.com,89224,10776,2025-08-02,Low Attendance
+51,Ryan,Ganguly,ryan.ganguly@example.com,93774,6226,2025-10-02,Low Attendance
+52,Vincent,Sem,vincent.sem@example.com,29805,70195,2025-09-01,"Low Attendance, Fee Default, Admin Debar"
+53,Mason,Gokhale,mason.gokhale@example.com,61698,38302,2025-08-21,Low Attendance
+54,Abha,Badal,abha.badal@example.com,20928,79072,2025-11-09,Low Attendance
+55,Harita,Natt,harita.natt@example.com,84390,15610,2025-06-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+56,Ayaan,Ben,ayaan.ben@example.com,90270,9730,2025-07-12,Low Attendance
+57,Mitali,Chopra,mitali.chopra@example.com,73519,26481,2025-05-14,"Low Attendance, Low Average Marks, High Risk Combo"
+58,Urvashi,Narain,urvashi.narain@example.com,70419,29581,2025-11-07,Low Attendance
+59,Saksham,Bakshi,saksham.bakshi@example.com,29498,70502,2025-07-24,"Low Attendance, Fee Default, Admin Debar"
+60,Tanvi,Gaba,tanvi.gaba@example.com,83230,16770,2025-05-26,Low Attendance
+61,Onveer,Date,onveer.date@example.com,29659,70341,2025-05-06,"Low Attendance, Fee Default, Admin Debar"
+62,Hardik,Devi,hardik.devi@example.com,35454,64546,2025-07-17,"Low Attendance, Fee Default, Admin Debar"
+63,Kritika,Barman,kritika.barman@example.com,48761,51239,2025-09-29,Low Attendance
+64,Frederick,Prakash,frederick.prakash@example.com,59418,40582,2025-07-28,Low Attendance
+65,Maanav,Bhatti,maanav.bhatti@example.com,26780,73220,2025-12-05,Low Attendance
+66,Warhi,Butala,warhi.butala@example.com,98725,1275,2025-04-12,Low Attendance
+67,Kevin,Deshpande,kevin.deshpande@example.com,38540,61460,2025-08-23,"Low Attendance, Fee Default, Admin Debar"
+68,Veda,Bhandari,veda.bhandari@example.com,46342,53658,2025-04-28,"Low Attendance, Fee Default, Admin Debar"
+69,Rachita,Arora,rachita.arora@example.com,35589,64411,2025-08-21,"Low Attendance, Fee Default, Admin Debar"
+70,Orinder,Rau,orinder.rau@example.com,21887,78113,2025-05-03,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+71,Gautami,Tak,gautami.tak@example.com,86973,13027,2025-12-22,Low Attendance
+72,Adya,Nigam,adya.nigam@example.com,58900,41100,2025-07-13,Low Attendance
+73,Ladli,Munshi,ladli.munshi@example.com,41834,58166,2025-07-13,"Low Attendance, Fee Default, Admin Debar"
+74,Elijah,Ganguly,elijah.ganguly@example.com,89500,10500,2025-12-07,Low Attendance
+75,Siya,Sridhar,siya.sridhar@example.com,54994,45006,2025-05-21,Low Attendance
+76,Omaja,Kumar,omaja.kumar@example.com,39603,60397,2025-08-15,"Low Attendance, Fee Default, Admin Debar"
+77,Manbir,Mandal,manbir.mandal@example.com,92266,7734,2025-10-24,Low Attendance
+78,Kai,Modi,kai.modi@example.com,85162,14838,2025-06-08,Low Attendance
+79,Ishanvi,Bedi,ishanvi.bedi@example.com,83764,16236,2025-04-17,Low Attendance
+80,Yashvi,Anne,yashvi.anne@example.com,23259,76741,2025-10-01,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+81,Hemangini,Kota,hemangini.kota@example.com,20387,79613,2025-04-23,"Low Attendance, Fee Default, Admin Debar"
+82,Omya,Sanghvi,omya.sanghvi@example.com,37199,62801,2025-04-30,"Low Attendance, Fee Default, Admin Debar"
+83,Lopa,Baria,lopa.baria@example.com,49318,50682,2025-06-13,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+84,Balhaar,Bhagat,balhaar.bhagat@example.com,61099,38901,2025-10-23,Low Attendance
+85,Ekaraj,Saha,ekaraj.saha@example.com,34093,65907,2025-05-17,"Low Attendance, Fee Default, Admin Debar"
+86,Nathan,Raman,nathan.raman@example.com,22072,77928,2025-11-25,Low Attendance
+87,Hemal,Sarma,hemal.sarma@example.com,50862,49138,2025-09-30,Low Attendance
+88,Turvi,Muni,turvi.muni@example.com,55268,44732,2025-08-08,Low Attendance
+89,Ekta,Gopal,ekta.gopal@example.com,32135,67865,2025-09-16,Low Attendance
+90,Ikshita,Prasad,ikshita.prasad@example.com,20884,79116,2025-12-04,Low Attendance
+91,Waida,Pandit,waida.pandit@example.com,48666,51334,2025-06-01,"Low Attendance, Fee Default, Admin Debar"
+92,Garima,Sood,garima.sood@example.com,72304,27696,2025-08-17,Low Attendance
+93,Omya,Shere,omya.shere@example.com,51256,48744,2025-09-27,Low Attendance
+94,Aadhya,Choudhary,aadhya.choudhary@example.com,42948,57052,2025-05-19,"Low Attendance, Fee Default, Admin Debar"
+95,Abeer,More,abeer.more@example.com,44108,55892,2025-10-02,Low Attendance
+96,Anusha,Narang,anusha.narang@example.com,89968,10032,2025-08-12,Low Attendance
+97,Karan,Menon,karan.menon@example.com,85082,14918,2025-04-19,Low Attendance
+98,Hitesh,Kaur,hitesh.kaur@example.com,59330,40670,2025-04-21,Low Attendance
+99,Advaith,Chana,advaith.chana@example.com,84822,15178,2025-05-30,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+100,Januja,Kuruvilla,januja.kuruvilla@example.com,97386,2614,2025-07-26,Low Attendance
+101,Tanish,Bahri,tanish.bahri@example.com,55708,44292,2025-09-29,Low Attendance
+102,Christopher,Divan,christopher.divan@example.com,30517,69483,2025-05-15,"Low Attendance, Fee Default, Admin Debar"
+103,Omisha,Mandal,omisha.mandal@example.com,49546,50454,2025-10-26,Low Attendance
+104,Ekapad,Ravel,ekapad.ravel@example.com,82242,17758,2025-12-01,Low Attendance
+105,Charvi,Ahuja,charvi.ahuja@example.com,45612,54388,2025-04-12,"Low Attendance, Fee Default, Admin Debar"
+106,Irya,Naidu,irya.naidu@example.com,75012,24988,2025-09-17,Low Attendance
+107,Anamika,Bansal,anamika.bansal@example.com,48836,51164,2025-06-16,"Low Attendance, Fee Default, Admin Debar"
+108,Liam,Jayaraman,liam.jayaraman@example.com,36764,63236,2025-06-15,"Low Attendance, Fee Default, Admin Debar"
+109,Vritti,Karpe,vritti.karpe@example.com,92840,7160,2025-11-16,Low Attendance
+110,Nikita,Singhal,nikita.singhal@example.com,66785,33215,2025-09-26,Low Attendance
+111,Daniel,Vasa,daniel.vasa@example.com,30465,69535,2025-05-27,"Low Attendance, Fee Default, Admin Debar"
+112,Kamya,Parmer,kamya.parmer@example.com,61284,38716,2025-09-09,"Low Attendance, Multiple Failures"
+113,Jasmit,De,jasmit.de@example.com,36062,63938,2025-07-03,"Low Attendance, Fee Default, Admin Debar"
+114,Nihal,Shenoy,nihal.shenoy@example.com,33405,66595,2025-10-15,Low Attendance
+115,Aadhya,Deo,aadhya.deo@example.com,41791,58209,2025-10-18,Low Attendance
+116,Zansi,Nagi,zansi.nagi@example.com,74428,25572,2025-09-01,Low Attendance
+117,Anamika,Shere,anamika.shere@example.com,39581,60419,2025-04-30,"Low Attendance, Fee Default, Admin Debar"
+118,Nikita,Batra,nikita.batra@example.com,70756,29244,2025-10-18,Low Attendance
+119,Reyansh,Balakrishnan,reyansh.balakrishnan@example.com,87925,12075,2025-10-20,Low Attendance
+120,Gaurika,Mitra,gaurika.mitra@example.com,97098,2902,2025-10-23,Low Attendance
+121,Hemangini,Mani,hemangini.mani@example.com,26575,73425,2025-09-05,"Low Attendance, Fee Default, Admin Debar"
+122,Isaac,Sodhi,isaac.sodhi@example.com,36022,63978,2025-11-05,Low Attendance
+123,Siddharth,Raj,siddharth.raj@example.com,46899,53101,2025-05-13,"Low Attendance, Fee Default, Admin Debar"
+124,Tejas,Prashad,tejas.prashad@example.com,28269,71731,2025-09-13,"Low Attendance, Low Average Marks, Fee Default, High Risk Combo, Admin Debar"
+125,Radhika,Borra,radhika.borra@example.com,53671,46329,2025-06-08,Low Attendance
+126,Amruta,Gokhale,amruta.gokhale@example.com,54247,45753,2025-08-30,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+127,Bhavika,Raval,bhavika.raval@example.com,53830,46170,2025-08-17,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+128,Jairaj,Aurora,jairaj.aurora@example.com,37618,62382,2025-11-01,"Low Average Marks, Multiple Failures"
+129,Forum,Mutti,forum.mutti@example.com,66699,33301,2025-09-26,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+130,Gaurav,Mann,gaurav.mann@example.com,24236,75764,2025-09-19,"Low Average Marks, Multiple Failures, Fee Default"
+131,Gautami,Khare,gautami.khare@example.com,88684,11316,2025-08-30,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+132,Aarnav,Sachdeva,aarnav.sachdeva@example.com,66387,33613,2025-10-16,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+133,Pranit,Nori,pranit.nori@example.com,76856,23144,2025-07-18,"Low Average Marks, Multiple Failures"
+134,Baljiwan,Vala,baljiwan.vala@example.com,36717,63283,2025-08-04,"Low Average Marks, Multiple Failures, Fee Default"
+135,Mitesh,Parsa,mitesh.parsa@example.com,94274,5726,2025-08-01,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+136,Thomas,Swamy,thomas.swamy@example.com,87360,12640,2025-07-16,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+137,Janaki,Wagle,janaki.wagle@example.com,30509,69491,2025-05-30,"Low Average Marks, Multiple Failures, Fee Default"
+138,Qarin,Sabharwal,qarin.sabharwal@example.com,98865,1135,2025-10-02,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+139,Siddharth,Reddy,siddharth.reddy@example.com,68268,31732,2025-11-22,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+140,Charita,Ramaswamy,charita.ramaswamy@example.com,36283,63717,2025-09-06,"Low Average Marks, Multiple Failures, Fee Default"
+141,Zashil,Vora,zashil.vora@example.com,90323,9677,2025-07-14,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+142,Upadhriti,Bali,upadhriti.bali@example.com,22231,77769,2025-10-28,"Low Average Marks, Multiple Failures"
+143,Deepa,Sama,deepa.sama@example.com,55777,44223,2025-07-19,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+144,Bakhshi,Agarwal,bakhshi.agarwal@example.com,87512,12488,2025-05-13,"Low Average Marks, Multiple Failures"
+145,Pahal,Badal,pahal.badal@example.com,62440,37560,2025-04-09,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+146,Harini,Batra,harini.batra@example.com,26359,73641,2025-09-27,"Low Average Marks, Multiple Failures"
+147,Yashodhara,Sami,yashodhara.sami@example.com,82184,17816,2025-12-17,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+148,Hamsini,Chaudhari,hamsini.chaudhari@example.com,90424,9576,2025-09-07,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+149,Nilima,Anne,nilima.anne@example.com,87158,12842,2025-05-22,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+150,Zaitra,Swamy,zaitra.swamy@example.com,40506,59494,2025-05-12,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+151,Upma,Dutta,upma.dutta@example.com,25795,74205,2025-08-02,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+152,Nathaniel,Garg,nathaniel.garg@example.com,32764,67236,2025-07-14,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+153,Tanay,Vasa,tanay.vasa@example.com,85133,14867,2025-04-07,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+154,Faqid,Murty,faqid.murty@example.com,54302,45698,2025-08-12,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+155,Aryan,Kuruvilla,aryan.kuruvilla@example.com,88708,11292,2025-08-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+156,Gabriel,Viswanathan,gabriel.viswanathan@example.com,55260,44740,2025-06-03,"Low Average Marks, Multiple Failures"
+157,Niharika,Apte,niharika.apte@example.com,97467,2533,2025-05-20,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+158,Dhriti,Pandey,dhriti.pandey@example.com,24267,75733,2025-07-31,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+159,Nilima,Srinivas,nilima.srinivas@example.com,91764,8236,2025-12-13,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+160,Ishanvi,Agate,ishanvi.agate@example.com,25875,74125,2025-07-20,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+161,Damyanti,Mittal,damyanti.mittal@example.com,64574,35426,2025-07-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+162,Lipika,Mandal,lipika.mandal@example.com,25994,74006,2025-06-13,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+163,Yash,Bumb,yash.bumb@example.com,69333,30667,2025-05-24,"Low Average Marks, Multiple Failures"
+164,Irya,Nayar,irya.nayar@example.com,48767,51233,2025-09-06,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+165,Turvi,Garg,turvi.garg@example.com,45942,54058,2025-07-30,"Low Average Marks, Multiple Failures, Fee Default"
+166,Logan,Soni,logan.soni@example.com,64844,35156,2025-07-31,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+167,Maya,Chaudhary,maya.chaudhary@example.com,40946,59054,2025-10-06,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+168,Oviya,Chander,oviya.chander@example.com,80209,19791,2025-05-14,"Low Average Marks, Multiple Failures"
+169,Lavanya,Bajaj,lavanya.bajaj@example.com,93454,6546,2025-06-28,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+170,Unni,Kala,unni.kala@example.com,29060,70940,2025-04-02,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+171,Raksha,Oommen,raksha.oommen@example.com,78340,21660,2025-12-17,"Low Average Marks, Multiple Failures"
+172,Gopal,Bobal,gopal.bobal@example.com,26142,73858,2025-08-03,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+173,Samesh,Baria,samesh.baria@example.com,60119,39881,2025-12-12,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+174,Viraj,Bhasin,viraj.bhasin@example.com,93698,6302,2025-04-09,Low Average Marks
+175,Aradhana,Venkataraman,aradhana.venkataraman@example.com,75774,24226,2025-05-02,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+176,Meera,Kari,meera.kari@example.com,33464,66536,2025-07-14,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+177,Aayush,Bandi,aayush.bandi@example.com,32708,67292,2025-07-30,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+178,Parth,Trivedi,parth.trivedi@example.com,92054,7946,2025-04-29,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+179,Wakeeta,Mannan,wakeeta.mannan@example.com,41066,58934,2025-07-14,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+180,Rajeshri,Hayer,rajeshri.hayer@example.com,27117,72883,2025-06-11,"Low Average Marks, Multiple Failures, Fee Default"
+181,Andrew,Bedi,andrew.bedi@example.com,78512,21488,2025-06-08,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+182,Yoshita,Doshi,yoshita.doshi@example.com,76829,23171,2025-07-14,"Low Average Marks, Multiple Failures"
+183,Devika,Jaggi,devika.jaggi@example.com,35237,64763,2025-07-23,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+184,Arin,Khare,arin.khare@example.com,89758,10242,2025-12-16,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+185,Owen,Dada,owen.dada@example.com,64181,35819,2025-10-03,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+186,Hemang,Chawla,hemang.chawla@example.com,37214,62786,2025-12-13,"Low Average Marks, Multiple Failures"
+187,Rajeshri,Gola,rajeshri.gola@example.com,87841,12159,2025-10-28,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+188,Amara,Tank,amara.tank@example.com,70222,29778,2025-03-24,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+189,Maya,Zachariah,maya.zachariah@example.com,66032,33968,2025-11-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+190,Nimrat,Dube,nimrat.dube@example.com,58326,41674,2025-04-13,"Low Average Marks, Multiple Failures"
+191,Imaran,Chaudhuri,imaran.chaudhuri@example.com,56040,43960,2025-10-01,"Low Average Marks, Multiple Failures"
+192,Kiaan,Gara,kiaan.gara@example.com,78871,21129,2025-11-07,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+193,Indrajit,Wagle,indrajit.wagle@example.com,40317,59683,2025-10-24,"Low Average Marks, Multiple Failures"
+194,Umang,Hora,umang.hora@example.com,53075,46925,2025-10-13,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+195,Riya,Devan,riya.devan@example.com,32804,67196,2025-11-12,"Low Average Marks, Multiple Failures"
+196,Kritika,Lata,kritika.lata@example.com,74012,25988,2025-07-13,"Low Average Marks, Multiple Failures"
+197,Jai,Manne,jai.manne@example.com,68788,31212,2025-07-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+198,Zashil,Kulkarni,zashil.kulkarni@example.com,23411,76589,2025-12-21,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+199,Advik,Deo,advik.deo@example.com,87911,12089,2025-05-12,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+200,Umang,Lala,umang.lala@example.com,78133,21867,2025-12-09,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+201,Sarthak,Mannan,sarthak.mannan@example.com,49466,50534,2025-11-05,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+202,Patrick,Char,patrick.char@example.com,46832,53168,2025-04-19,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+203,Falan,Krishnan,falan.krishnan@example.com,55131,44869,2025-05-01,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+204,Yamini,Dhillon,yamini.dhillon@example.com,42246,57754,2025-04-03,"Low Average Marks, Multiple Failures, Fee Default"
+205,Girik,Ram,girik.ram@example.com,71588,28412,2025-09-08,"Low Average Marks, Multiple Failures"
+206,Madhav,Mukhopadhyay,madhav.mukhopadhyay@example.com,37694,62306,2025-08-15,"Low Average Marks, Multiple Failures, Fee Default"
+207,Oscar,Uppal,oscar.uppal@example.com,33084,66916,2025-07-06,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+208,Samesh,Chopra,samesh.chopra@example.com,26477,73523,2025-10-05,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+209,Amaira,Kaur,amaira.kaur@example.com,71065,28935,2025-11-14,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+210,Oeshi,Dua,oeshi.dua@example.com,58754,41246,2025-09-07,"Low Average Marks, Multiple Failures"
+211,Chandani,Mangat,chandani.mangat@example.com,26172,73828,2025-05-08,"Low Average Marks, Multiple Failures, Fee Default"
+212,Rudra,Kapur,rudra.kapur@example.com,85617,14383,2025-05-28,"Low Average Marks, Multiple Failures"
+213,Samarth,Bava,samarth.bava@example.com,63843,36157,2025-07-26,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+214,Lajita,Prabhu,lajita.prabhu@example.com,39214,60786,2025-11-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+215,Krisha,Khare,krisha.khare@example.com,54689,45311,2025-06-30,"Low Average Marks, Multiple Failures"
+216,Champak,Banerjee,champak.banerjee@example.com,92023,7977,2025-06-05,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+217,Raksha,Misra,raksha.misra@example.com,81990,18010,2025-04-22,"Low Average Marks, Multiple Failures"
+218,Chaman,Shanker,chaman.shanker@example.com,30705,69295,2025-09-28,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+219,Aarnav,Jaggi,aarnav.jaggi@example.com,83912,16088,2025-06-27,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+220,Tara,Kaul,tara.kaul@example.com,21867,78133,2025-10-31,Low Average Marks
+221,Oni,Lall,oni.lall@example.com,65117,34883,2025-07-08,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+222,Ryan,Doctor,ryan.doctor@example.com,35091,64909,2025-07-19,"Low Average Marks, Multiple Failures, Fee Default"
+223,Ronith,Seth,ronith.seth@example.com,72689,27311,2025-09-16,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+224,Rudra,Agrawal,rudra.agrawal@example.com,42347,57653,2025-08-29,"Low Average Marks, Multiple Failures, Fee Default"
+225,Zinal,Gala,zinal.gala@example.com,73271,26729,2025-05-01,"Low Average Marks, Multiple Failures"
+226,Timothy,Rajan,timothy.rajan@example.com,86048,13952,2025-08-25,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+227,Anika,Hora,anika.hora@example.com,97017,2983,2025-04-30,"Low Average Marks, Multiple Failures"
+228,Sudiksha,Swaminathan,sudiksha.swaminathan@example.com,38520,61480,2025-11-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+229,Advika,Kurian,advika.kurian@example.com,76567,23433,2025-06-01,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+230,Darika,Gokhale,darika.gokhale@example.com,81040,18960,2025-03-30,"Low Average Marks, Multiple Failures"
+231,Akshay,Nadkarni,akshay.nadkarni@example.com,83867,16133,2025-05-24,"Low Average Marks, Multiple Failures"
+232,Manan,Ganguly,manan.ganguly@example.com,85185,14815,2025-06-25,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+233,Gaurangi,Sampath,gaurangi.sampath@example.com,69266,30734,2025-11-07,"Low Average Marks, Multiple Failures"
+234,Atharv,Mittal,atharv.mittal@example.com,46580,53420,2025-04-29,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+235,Faqid,Sankar,faqid.sankar@example.com,35816,64184,2025-08-09,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+236,Zehaan,Pandya,zehaan.pandya@example.com,97057,2943,2025-12-12,"Low Average Marks, Multiple Failures"
+237,Amrita,Nadig,amrita.nadig@example.com,61922,38078,2025-11-19,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+238,Isaac,Hora,isaac.hora@example.com,37423,62577,2025-07-21,"Low Average Marks, Multiple Failures, Fee Default"
+239,Radhika,Bhalla,radhika.bhalla@example.com,60943,39057,2025-05-21,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+240,Praneel,Kibe,praneel.kibe@example.com,31907,68093,2025-04-01,"Low Average Marks, Multiple Failures, Fee Default"
+241,Ishani,Baral,ishani.baral@example.com,60946,39054,2025-06-10,"Low Average Marks, Multiple Failures"
+242,Chandresh,Keer,chandresh.keer@example.com,97411,2589,2025-11-19,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+243,Deepa,Aurora,deepa.aurora@example.com,82989,17011,2025-05-06,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+244,Joshua,Kalita,joshua.kalita@example.com,81660,18340,2025-04-09,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+245,Nisha,Ramaswamy,nisha.ramaswamy@example.com,82683,17317,2025-10-06,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+246,Gayathri,Wason,gayathri.wason@example.com,42162,57838,2025-11-09,"Low Average Marks, Multiple Failures"
+247,Bakhshi,Pingle,bakhshi.pingle@example.com,48818,51182,2025-10-23,"Low Average Marks, Multiple Failures"
+248,Yashvi,Devan,yashvi.devan@example.com,51142,48858,2025-04-08,"Low Average Marks, Multiple Failures"
+249,Bhavani,Dada,bhavani.dada@example.com,35419,64581,2025-09-19,"Low Average Marks, Multiple Failures"
+250,Brinda,Mitra,brinda.mitra@example.com,77226,22774,2025-07-24,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+251,Ekiya,Narasimhan,ekiya.narasimhan@example.com,79059,20941,2025-04-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+252,Falak,Menon,falak.menon@example.com,73957,26043,2025-03-27,"Low Attendance, Multiple Failures"
+253,Devansh,Chad,devansh.chad@example.com,71270,28730,2025-12-07,Multiple Failures
+254,Yashica,Soni,yashica.soni@example.com,48662,51338,2025-08-15,"Low Average Marks, Multiple Failures, Fee Default"
+255,Maanav,Dhawan,maanav.dhawan@example.com,86315,13685,2025-07-17,"Low Attendance, Multiple Failures"
+256,Aashi,Magar,aashi.magar@example.com,92704,7296,2025-08-13,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+257,Pooja,Devan,pooja.devan@example.com,72365,27635,2025-04-03,"Multiple Failures, Low Study + Low Marks"
+258,Ayushman,Devan,ayushman.devan@example.com,54708,45292,2025-09-25,"Low Attendance, Multiple Failures"
+259,Theodore,Ravi,theodore.ravi@example.com,77870,22130,2025-05-13,Multiple Failures
+260,Barkha,Goel,barkha.goel@example.com,76982,23018,2025-08-22,"Low Attendance, Multiple Failures"
+261,Janaki,Chada,janaki.chada@example.com,36365,63635,2025-03-30,"Multiple Failures, Fee Default"
+262,Sai,Kuruvilla,sai.kuruvilla@example.com,33514,66486,2025-07-18,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+263,Raagini,Kata,raagini.kata@example.com,54783,45217,2025-11-13,"Low Attendance, Multiple Failures"
+264,Vedika,Gole,vedika.gole@example.com,78047,21953,2025-03-25,Multiple Failures
+265,Finn,De,finn.de@example.com,86983,13017,2025-11-08,"Multiple Failures, Low Study + Low Marks"
+266,Qarin,Bhagat,qarin.bhagat@example.com,31081,68919,2025-06-22,"Low Average Marks, Multiple Failures, Fee Default"
+267,Aishani,Ramachandran,aishani.ramachandran@example.com,41513,58487,2025-07-23,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+268,Orinder,Master,orinder.master@example.com,53193,46807,2025-07-27,"Low Average Marks, Multiple Failures"
+269,Aarna,Subramanian,aarna.subramanian@example.com,86047,13953,2025-04-27,"Low Average Marks, Multiple Failures"
+270,Aachal,Pau,aachal.pau@example.com,42559,57441,2025-04-13,"Multiple Failures, Fee Default"
+271,Sai,Pant,sai.pant@example.com,52406,47594,2025-10-08,"Low Attendance, Multiple Failures"
+272,Sneha,Hans,sneha.hans@example.com,86550,13450,2025-04-08,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+273,Jagdish,Krishnan,jagdish.krishnan@example.com,61182,38818,2025-08-14,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+274,Dhruv,Sood,dhruv.sood@example.com,85717,14283,2025-08-23,Multiple Failures
+275,Isaac,Sengupta,isaac.sengupta@example.com,76522,23478,2025-06-15,"Low Attendance, Multiple Failures"
+276,Vaishnavi,Wadhwa,vaishnavi.wadhwa@example.com,89015,10985,2025-08-06,"Low Average Marks, Multiple Failures"
+277,Imaran,Venkataraman,imaran.venkataraman@example.com,65044,34956,2025-06-10,Multiple Failures
+278,Faris,Suresh,faris.suresh@example.com,92702,7298,2025-10-24,Multiple Failures
+279,Indira,Agrawal,indira.agrawal@example.com,55730,44270,2025-06-01,"Low Attendance, Multiple Failures"
+280,Jeevika,Grover,jeevika.grover@example.com,93953,6047,2025-09-11,Multiple Failures
+281,Dalbir,Kota,dalbir.kota@example.com,24765,75235,2025-08-02,"Low Average Marks, Multiple Failures, Fee Default"
+282,Pranav,Sawhney,pranav.sawhney@example.com,98209,1791,2025-04-20,Multiple Failures
+283,Ganga,Sharaf,ganga.sharaf@example.com,45553,54447,2025-05-26,"Low Average Marks, Multiple Failures, Fee Default"
+284,Watika,Anand,watika.anand@example.com,25143,74857,2025-10-24,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+285,Fitan,Shah,fitan.shah@example.com,34070,65930,2025-07-12,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+286,Megha,Kapadia,megha.kapadia@example.com,70497,29503,2025-11-19,"Low Average Marks, Multiple Failures"
+287,Aarush,Borra,aarush.borra@example.com,43749,56251,2025-03-26,"Multiple Failures, Fee Default"
+288,Xavier,Raju,xavier.raju@example.com,48734,51266,2025-03-22,"Multiple Failures, Fee Default"
+289,Ganga,Sachar,ganga.sachar@example.com,72895,27105,2025-06-25,"Low Attendance, Multiple Failures"
+290,Madhavi,Barman,madhavi.barman@example.com,79619,20381,2025-11-02,Multiple Failures
+291,Baljiwan,Mital,baljiwan.mital@example.com,38677,61323,2025-09-24,"Low Attendance, Multiple Failures"
+292,Vamakshi,Kunda,vamakshi.kunda@example.com,78775,21225,2025-04-01,Multiple Failures
+293,Shivani,Maharaj,shivani.maharaj@example.com,21031,78969,2025-11-17,"Multiple Failures, Low Study + Low Marks"
+294,Jacob,Borra,jacob.borra@example.com,24824,75176,2025-11-26,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+295,Varenya,Chanda,varenya.chanda@example.com,59271,40729,2025-07-09,"Low Attendance, Multiple Failures"
+296,Warhi,Kalla,warhi.kalla@example.com,41851,58149,2025-08-31,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+297,Aarini,Mammen,aarini.mammen@example.com,61120,38880,2025-08-12,Multiple Failures
+298,Arya,Yadav,arya.yadav@example.com,88461,11539,2025-07-20,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+299,Imaran,Thaman,imaran.thaman@example.com,40771,59229,2025-11-26,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+300,Nitesh,Samra,nitesh.samra@example.com,62759,37241,2025-08-21,Multiple Failures
+301,Raksha,Vora,raksha.vora@example.com,26301,73699,2025-08-24,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+302,Tamanna,Jha,tamanna.jha@example.com,72087,27913,2025-07-04,"Low Attendance, Multiple Failures"
+303,Zaid,Trivedi,zaid.trivedi@example.com,50771,49229,2025-06-03,"Low Average Marks, Multiple Failures"
+304,Gopal,Gade,gopal.gade@example.com,97245,2755,2025-05-31,"Low Attendance, Multiple Failures"
+305,Hredhaan,Goel,hredhaan.goel@example.com,72533,27467,2025-11-29,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+306,Udant,Mani,udant.mani@example.com,66547,33453,2025-11-20,"Low Average Marks, Multiple Failures"
+307,Nilima,Loke,nilima.loke@example.com,25465,74535,2025-05-05,"Multiple Failures, Fee Default"
+308,Laksh,Munshi,laksh.munshi@example.com,58423,41577,2025-07-08,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+309,Yuvraj,Varkey,yuvraj.varkey@example.com,38150,61850,2025-11-17,"Low Average Marks, Multiple Failures"
+310,Luke,Sinha,luke.sinha@example.com,89442,10558,2025-06-07,"Low Average Marks, Multiple Failures"
+311,Krisha,Shere,krisha.shere@example.com,79976,20024,2025-06-07,Multiple Failures
+312,Rajata,Sant,rajata.sant@example.com,21439,78561,2025-05-11,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+313,Jalsa,Dalal,jalsa.dalal@example.com,61427,38573,2025-04-05,Multiple Failures
+314,Gauri,Konda,gauri.konda@example.com,89477,10523,2025-05-18,Multiple Failures
+315,Falan,Samra,falan.samra@example.com,42663,57337,2025-12-13,"Low Average Marks, Multiple Failures"
+316,Mekhala,Gokhale,mekhala.gokhale@example.com,67929,32071,2025-08-11,Multiple Failures
+317,Anita,Bhagat,anita.bhagat@example.com,93440,6560,2025-11-30,Multiple Failures
+318,Falak,Chowdhury,falak.chowdhury@example.com,34786,65214,2025-10-15,"Low Attendance, Multiple Failures"
+319,Netra,Natarajan,netra.natarajan@example.com,92036,7964,2025-07-20,Multiple Failures
+320,Abhiram,Karnik,abhiram.karnik@example.com,58432,41568,2025-05-04,Multiple Failures
+321,Ayaan,De,ayaan.de@example.com,88179,11821,2025-06-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+322,Wishi,Dash,wishi.dash@example.com,84389,15611,2025-06-27,Multiple Failures
+323,Zinal,Shukla,zinal.shukla@example.com,96790,3210,2025-08-03,Multiple Failures
+324,Zansi,Raj,zansi.raj@example.com,40520,59480,2025-12-23,Multiple Failures
+325,Leena,Dass,leena.dass@example.com,69678,30322,2025-10-29,"Low Average Marks, Multiple Failures"
+326,Keya,De,keya.de@example.com,65045,34955,2025-08-20,Multiple Failures
+327,Tanveer,Sarma,tanveer.sarma@example.com,29470,70530,2025-07-16,"Multiple Failures, Fee Default"
+328,Wyatt,Borah,wyatt.borah@example.com,89393,10607,2025-08-15,"Low Average Marks, Multiple Failures"
+329,George,Saha,george.saha@example.com,29168,70832,2025-11-03,"Multiple Failures, Low Study + Low Marks"
+330,Ekani,Pant,ekani.pant@example.com,33240,66760,2025-07-14,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+331,Rachana,Swamy,rachana.swamy@example.com,71277,28723,2025-10-02,Multiple Failures
+332,Chakradhar,Dara,chakradhar.dara@example.com,81319,18681,2025-04-18,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+333,Guneet,Dewan,guneet.dewan@example.com,21884,78116,2025-08-14,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+334,Nilima,Kannan,nilima.kannan@example.com,38329,61671,2025-08-23,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+335,Mason,Thakur,mason.thakur@example.com,96737,3263,2025-11-16,Multiple Failures
+336,Pushti,Balasubramanian,pushti.balasubramanian@example.com,73555,26445,2025-10-16,"Low Attendance, Multiple Failures"
+337,Lekha,Dash,lekha.dash@example.com,54628,45372,2025-09-01,"Low Attendance, Multiple Failures"
+338,Rajata,Ben,rajata.ben@example.com,45303,54697,2025-06-29,"Low Average Marks, Multiple Failures, Fee Default"
+339,Owen,Mody,owen.mody@example.com,66787,33213,2025-09-20,"Low Average Marks, Multiple Failures"
+340,Upkaar,Chander,upkaar.chander@example.com,97682,2318,2025-04-08,"Low Average Marks, Multiple Failures"
+341,Rajata,Mall,rajata.mall@example.com,20346,79654,2025-07-12,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+342,Warda,Kari,warda.kari@example.com,80743,19257,2025-04-06,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+343,Samuel,Peri,samuel.peri@example.com,92378,7622,2025-03-26,"Multiple Failures, Low Study + Low Marks"
+344,Devansh,Parikh,devansh.parikh@example.com,44714,55286,2025-06-20,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+345,Krishna,Nanda,krishna.nanda@example.com,88365,11635,2025-05-12,"Low Attendance, Multiple Failures"
+346,Yuvraj,Rama,yuvraj.rama@example.com,61180,38820,2025-07-11,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+347,Urishilla,Bala,urishilla.bala@example.com,74260,25740,2025-11-10,"Low Average Marks, Multiple Failures"
+348,Sanya,Konda,sanya.konda@example.com,47367,52633,2025-05-01,"Low Average Marks, Multiple Failures, Fee Default"
+349,Kamya,Chadha,kamya.chadha@example.com,73774,26226,2025-11-20,Multiple Failures
+350,Charles,Venkataraman,charles.venkataraman@example.com,22128,77872,2025-05-06,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+351,Quincy,Nagarajan,quincy.nagarajan@example.com,88902,11098,2025-04-12,Multiple Failures
+352,Ubika,Mohan,ubika.mohan@example.com,96309,3691,2025-05-17,"Low Attendance, Multiple Failures"
+353,Omaja,Dhar,omaja.dhar@example.com,84086,15914,2025-07-13,Multiple Failures
+354,Abeer,Doctor,abeer.doctor@example.com,69684,30316,2025-12-19,"Low Attendance, Multiple Failures"
+355,Harshil,Varkey,harshil.varkey@example.com,34065,65935,2025-10-04,"Low Average Marks, Multiple Failures"
+356,Siddharth,Bhalla,siddharth.bhalla@example.com,43731,56269,2025-10-23,Multiple Failures
+357,Tanish,Brahmbhatt,tanish.brahmbhatt@example.com,32554,67446,2025-05-20,"Low Average Marks, Multiple Failures, Fee Default"
+358,Zayan,Atwal,zayan.atwal@example.com,35317,64683,2025-08-11,"Multiple Failures, Fee Default"
+359,Sachi,Bail,sachi.bail@example.com,76353,23647,2025-07-30,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+360,Irya,Dave,irya.dave@example.com,72678,27322,2025-04-11,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+361,Ekansh,Gokhale,ekansh.gokhale@example.com,79354,20646,2025-09-07,Multiple Failures
+362,Bishakha,Mane,bishakha.mane@example.com,41320,58680,2025-08-14,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+363,Faqid,Pau,faqid.pau@example.com,49369,50631,2025-11-10,"Low Average Marks, Multiple Failures"
+364,Pranav,Ratti,pranav.ratti@example.com,25140,74860,2025-07-21,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+365,Aadi,Borde,aadi.borde@example.com,88116,11884,2025-07-19,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+366,Saumya,Boase,saumya.boase@example.com,44677,55323,2025-08-20,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+367,Oscar,Magar,oscar.magar@example.com,99314,686,2025-09-13,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+368,Om,Kalita,om.kalita@example.com,96323,3677,2025-08-21,Multiple Failures
+369,Lila,Kala,lila.kala@example.com,30208,69792,2025-09-02,"Low Average Marks, Multiple Failures, Fee Default"
+370,Parth,Mody,parth.mody@example.com,20379,79621,2025-07-28,"Multiple Failures, Fee Default"
+371,Jackson,Batta,jackson.batta@example.com,54048,45952,2025-10-30,Multiple Failures
+372,Aarnav,Sen,aarnav.sen@example.com,84957,15043,2025-04-27,"Low Attendance, Multiple Failures, Low Study + Low Marks"
+373,Pahal,Dass,pahal.dass@example.com,29016,70984,2025-05-09,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+374,Rajata,Pau,rajata.pau@example.com,51053,48947,2025-04-09,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+375,Turvi,Pradhan,turvi.pradhan@example.com,94534,5466,2025-07-02,"Low Average Marks, Multiple Failures"
+376,Manya,Apte,manya.apte@example.com,71523,28477,2025-09-14,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+377,Liam,Nigam,liam.nigam@example.com,93428,6572,2025-07-11,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+378,Anirudh,Rama,anirudh.rama@example.com,89563,10437,2025-08-12,"Low Attendance, Low Study + Low Marks"
+379,Nitara,Chana,nitara.chana@example.com,44592,55408,2025-07-16,"Low Study + Low Marks, Fee Default"
+380,Abhiram,Parmer,abhiram.parmer@example.com,79569,20431,2025-05-04,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+381,Ishwar,Halder,ishwar.halder@example.com,41178,58822,2025-11-25,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+382,Vidhi,Sidhu,vidhi.sidhu@example.com,73498,26502,2025-07-05,"Low Average Marks, Low Study + Low Marks"
+383,Netra,Pant,netra.pant@example.com,59129,40871,2025-08-09,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+384,Anay,Rao,anay.rao@example.com,51497,48503,2025-05-18,"Low Average Marks, Low Study + Low Marks"
+385,Abhiram,Parekh,abhiram.parekh@example.com,89119,10881,2025-08-15,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+386,Yahvi,Mand,yahvi.mand@example.com,72588,27412,2025-07-22,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+387,Raagini,Mand,raagini.mand@example.com,78897,21103,2025-11-23,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+388,Zayyan,Kanda,zayyan.kanda@example.com,29783,70217,2025-05-14,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+389,Gaurika,Mangat,gaurika.mangat@example.com,77790,22210,2025-04-26,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+390,Anthony,Lalla,anthony.lalla@example.com,40690,59310,2025-06-11,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+391,Robert,Kapoor,robert.kapoor@example.com,47796,52204,2025-09-12,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+392,Unnati,Sule,unnati.sule@example.com,72476,27524,2025-07-13,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+393,Osha,Rai,osha.rai@example.com,96347,3653,2025-06-08,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+394,Bhavna,Deshpande,bhavna.deshpande@example.com,50084,49916,2025-08-26,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+395,Chameli,Ravel,chameli.ravel@example.com,56095,43905,2025-06-09,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+396,Yashica,Karan,yashica.karan@example.com,49126,50874,2025-11-23,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+397,Rayaan,Mahajan,rayaan.mahajan@example.com,64022,35978,2025-03-29,"Low Average Marks, Low Study + Low Marks"
+398,Reva,Gola,reva.gola@example.com,84935,15065,2025-06-20,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+399,Yug,Nagy,yug.nagy@example.com,39822,60178,2025-07-21,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+400,Chandran,Sane,chandran.sane@example.com,62473,37527,2025-10-14,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+401,Aarush,Setty,aarush.setty@example.com,96175,3825,2025-12-06,Low Study + Low Marks
+402,Rachita,Samra,rachita.samra@example.com,57795,42205,2025-09-27,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+403,Priya,Barad,priya.barad@example.com,73897,26103,2025-09-09,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+404,Ojas,Sura,ojas.sura@example.com,66090,33910,2025-07-08,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+405,Aadi,Wagle,aadi.wagle@example.com,66269,33731,2025-07-18,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+406,Tarak,Shanker,tarak.shanker@example.com,99316,684,2025-11-18,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+407,Amol,Grover,amol.grover@example.com,62529,37471,2025-10-14,"Low Average Marks, Low Study + Low Marks"
+408,Riya,Shukla,riya.shukla@example.com,54275,45725,2025-09-04,"Low Attendance, Low Study + Low Marks"
+409,Dipta,Sawhney,dipta.sawhney@example.com,79931,20069,2025-12-17,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+410,Jeremiah,Ramesh,jeremiah.ramesh@example.com,47264,52736,2025-09-19,"Low Study + Low Marks, Fee Default"
+411,Ayushman,Toor,ayushman.toor@example.com,54261,45739,2025-08-17,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+412,Eshana,Nadkarni,eshana.nadkarni@example.com,68359,31641,2025-03-31,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+413,Naveen,Dara,naveen.dara@example.com,52872,47128,2025-09-10,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+414,Rohan,Trivedi,rohan.trivedi@example.com,40059,59941,2025-06-06,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+415,Neelima,Vora,neelima.vora@example.com,20755,79245,2025-10-31,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+416,Rayaan,Sibal,rayaan.sibal@example.com,80312,19688,2025-09-21,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+417,Eshana,Goyal,eshana.goyal@example.com,27028,72972,2025-04-10,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+418,Indrajit,Gola,indrajit.gola@example.com,36129,63871,2025-11-29,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+419,Omya,Chakrabarti,omya.chakrabarti@example.com,49043,50957,2025-09-16,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+420,Jagvi,Chandra,jagvi.chandra@example.com,62677,37323,2025-06-17,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+421,Ayush,Hans,ayush.hans@example.com,48683,51317,2025-11-17,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+422,Ati,Bahri,ati.bahri@example.com,66999,33001,2025-04-03,"Low Average Marks, Low Study + Low Marks"
+423,Yachana,Kumer,yachana.kumer@example.com,32711,67289,2025-06-09,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+424,Pallavi,Sani,pallavi.sani@example.com,59804,40196,2025-09-04,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+425,Nihal,Date,nihal.date@example.com,21525,78475,2025-03-21,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+426,Frederick,Sibal,frederick.sibal@example.com,65932,34068,2025-09-17,"Low Attendance, Low Study + Low Marks"
+427,Harini,Sengupta,harini.sengupta@example.com,78915,21085,2025-04-11,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+428,Madhav,Parmer,madhav.parmer@example.com,51944,48056,2025-04-24,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+429,Chakrika,Sem,chakrika.sem@example.com,40481,59519,2025-07-24,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+430,Girindra,Biswas,girindra.biswas@example.com,34756,65244,2025-06-11,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+431,Upkaar,Khatri,upkaar.khatri@example.com,46726,53274,2025-08-21,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+432,Qarin,Raman,qarin.raman@example.com,63122,36878,2025-08-30,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+433,Isha,Borde,isha.borde@example.com,55844,44156,2025-06-03,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+434,Priya,Mishra,priya.mishra@example.com,36922,63078,2025-12-07,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+435,Darpan,Khatri,darpan.khatri@example.com,40613,59387,2025-12-14,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+436,Eesha,Bhargava,eesha.bhargava@example.com,77608,22392,2025-07-25,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+437,Balhaar,Chawla,balhaar.chawla@example.com,51799,48201,2025-08-04,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+438,Ansh,Chauhan,ansh.chauhan@example.com,54310,45690,2025-11-09,"Low Average Marks, Low Study + Low Marks"
+439,Qarin,Natt,qarin.natt@example.com,59373,40627,2025-04-08,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+440,Jacob,Sridhar,jacob.sridhar@example.com,43281,56719,2025-12-03,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+441,Qadim,Sami,qadim.sami@example.com,50239,49761,2025-07-31,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+442,Daksha,Batra,daksha.batra@example.com,97311,2689,2025-08-14,"Low Attendance, Low Study + Low Marks"
+443,Geetika,Sur,geetika.sur@example.com,32966,67034,2025-11-23,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+444,Tanay,Desai,tanay.desai@example.com,94969,5031,2025-06-30,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+445,Lekha,Kota,lekha.kota@example.com,71514,28486,2025-06-03,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+446,Falan,Kata,falan.kata@example.com,45267,54733,2025-04-20,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+447,Bhavani,Kadakia,bhavani.kadakia@example.com,89584,10416,2025-05-08,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+448,Anusha,Saha,anusha.saha@example.com,98815,1185,2025-10-20,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+449,Jhalak,Sharaf,jhalak.sharaf@example.com,35431,64569,2025-07-16,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+450,Pranav,More,pranav.more@example.com,53188,46812,2025-09-06,"Low Average Marks, Low Study + Low Marks"
+451,Hiral,Mandal,hiral.mandal@example.com,73041,26959,2025-09-13,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+452,Ridhi,Bir,ridhi.bir@example.com,58178,41822,2025-11-24,"Low Attendance, Low Study + Low Marks"
+453,Omisha,Nayak,omisha.nayak@example.com,67088,32912,2025-10-16,"Low Average Marks, Low Study + Low Marks"
+454,Sarthak,Hari,sarthak.hari@example.com,98235,1765,2025-06-14,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+455,Rehaan,Ghosh,rehaan.ghosh@example.com,55864,44136,2025-11-14,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+456,Harini,Chaudhary,harini.chaudhary@example.com,21510,78490,2025-09-08,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+457,Omisha,Parmar,omisha.parmar@example.com,89812,10188,2025-06-11,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+458,Ekaja,Reddy,ekaja.reddy@example.com,28552,71448,2025-11-11,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+459,Veda,Borra,veda.borra@example.com,56836,43164,2025-09-28,"Low Average Marks, Low Study + Low Marks"
+460,Advika,Swaminathan,advika.swaminathan@example.com,25298,74702,2025-11-01,"Low Average Marks, Low Study + Low Marks"
+461,Unni,Tiwari,unni.tiwari@example.com,70505,29495,2025-10-07,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+462,Samaksh,Korpal,samaksh.korpal@example.com,82888,17112,2025-11-02,"Low Average Marks, Low Study + Low Marks"
+463,Meghana,Vyas,meghana.vyas@example.com,46019,53981,2025-05-09,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+464,Yashodhara,Khurana,yashodhara.khurana@example.com,46028,53972,2025-08-07,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+465,Jasmit,Kadakia,jasmit.kadakia@example.com,36881,63119,2025-10-19,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+466,Ryan,Manda,ryan.manda@example.com,42989,57011,2025-09-25,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+467,Brinda,Viswanathan,brinda.viswanathan@example.com,33644,66356,2025-09-12,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+468,Yashoda,Savant,yashoda.savant@example.com,63407,36593,2025-07-07,"Low Attendance, Low Study + Low Marks"
+469,Zayyan,Ravel,zayyan.ravel@example.com,85478,14522,2025-04-10,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+470,Harini,Bakshi,harini.bakshi@example.com,30411,69589,2025-11-29,"Low Attendance, Low Study + Low Marks"
+471,Hredhaan,Joshi,hredhaan.joshi@example.com,96926,3074,2025-09-04,Low Study + Low Marks
+472,Yashica,Iyengar,yashica.iyengar@example.com,89451,10549,2025-07-19,"Low Average Marks, Low Study + Low Marks"
+473,Reva,Dhar,reva.dhar@example.com,37580,62420,2025-12-12,"Low Average Marks, Low Study + Low Marks"
+474,Chasmum,Som,chasmum.som@example.com,25782,74218,2025-11-21,Low Study + Low Marks
+475,Amrita,Menon,amrita.menon@example.com,96177,3823,2025-11-12,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+476,Eesha,Raja,eesha.raja@example.com,37764,62236,2025-08-18,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+477,Naveen,Arya,naveen.arya@example.com,70125,29875,2025-04-09,"Low Average Marks, Low Study + Low Marks"
+478,Rayaan,Raj,rayaan.raj@example.com,75095,24905,2025-09-28,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+479,Amara,Sahni,amara.sahni@example.com,66885,33115,2025-07-24,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+480,Lekha,Bedi,lekha.bedi@example.com,20133,79867,2025-09-05,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+481,Christopher,Borra,christopher.borra@example.com,93553,6447,2025-05-14,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+482,Alexander,Garde,alexander.garde@example.com,94797,5203,2025-06-21,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+483,Krisha,Sengupta,krisha.sengupta@example.com,57693,42307,2025-10-28,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+484,Oliver,Chander,oliver.chander@example.com,26618,73382,2025-04-05,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+485,Amaira,Balay,amaira.balay@example.com,65418,34582,2025-04-29,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+486,Tarak,Jaggi,tarak.jaggi@example.com,40095,59905,2025-10-29,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+487,Siddharth,Chauhan,siddharth.chauhan@example.com,31900,68100,2025-08-03,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+488,Charan,Comar,charan.comar@example.com,94843,5157,2025-12-02,Low Study + Low Marks
+489,Atharv,Dash,atharv.dash@example.com,36769,63231,2025-07-20,"Low Attendance, Low Average Marks, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+490,Rachit,Varughese,rachit.varughese@example.com,57730,42270,2025-07-02,"Low Attendance, Low Study + Low Marks"
+491,Samar,Dani,samar.dani@example.com,98039,1961,2025-07-27,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+492,Ronith,Chowdhury,ronith.chowdhury@example.com,83438,16562,2025-12-06,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+493,Ekiya,Nath,ekiya.nath@example.com,60944,39056,2025-03-28,"Low Average Marks, Low Study + Low Marks"
+494,Nachiket,Mand,nachiket.mand@example.com,43500,56500,2025-04-26,"Low Study + Low Marks, Fee Default"
+495,Ishaan,Shere,ishaan.shere@example.com,69760,30240,2025-07-28,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+496,Warda,Chawla,warda.chawla@example.com,63045,36955,2025-07-15,"Low Average Marks, Multiple Failures, Low Study + Low Marks"
+497,Priya,Anand,priya.anand@example.com,25542,74458,2025-08-13,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+498,Ethan,Kari,ethan.kari@example.com,48785,51215,2025-05-06,"Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default"
+499,Atharv,Singhal,atharv.singhal@example.com,59890,40110,2025-06-06,"Low Average Marks, Low Study + Low Marks"
+500,Quincy,Randhawa,quincy.randhawa@example.com,72192,27808,2025-04-02,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+501,Damyanti,Jain,damyanti.jain@example.com,36839,63161,2025-09-11,"Low Attendance, Fee Default, Admin Debar"
+502,Champak,Jaggi,champak.jaggi@example.com,34352,65648,2025-06-09,"Low Attendance, Fee Default, Admin Debar"
+503,Tara,Ghosh,tara.ghosh@example.com,33029,66971,2025-06-29,Fee Default
+504,Xavier,Dora,xavier.dora@example.com,31766,68234,2025-06-13,Fee Default
+505,Nilima,Bail,nilima.bail@example.com,39198,60802,2025-08-01,"Low Attendance, Fee Default, Admin Debar"
+506,Gaurangi,Sachar,gaurangi.sachar@example.com,34666,65334,2025-04-05,Fee Default
+507,Aahana,Reddy,aahana.reddy@example.com,24383,75617,2025-09-05,Fee Default
+508,Sathvik,Dhingra,sathvik.dhingra@example.com,37910,62090,2025-07-14,"Low Attendance, Fee Default, Admin Debar"
+509,Raghav,Ben,raghav.ben@example.com,21053,78947,2025-08-14,"Low Attendance, Fee Default, Admin Debar"
+510,Urvi,Kaur,urvi.kaur@example.com,28618,71382,2025-06-02,Fee Default
+511,Gautam,Khare,gautam.khare@example.com,30610,69390,2025-04-28,"Low Attendance, Fee Default, Admin Debar"
+512,Faris,Pandya,faris.pandya@example.com,20964,79036,2025-04-23,Fee Default
+513,Finn,Saxena,finn.saxena@example.com,24030,75970,2025-04-19,Fee Default
+514,Barkha,Chatterjee,barkha.chatterjee@example.com,31463,68537,2025-03-30,Fee Default
+515,Zashil,Agate,zashil.agate@example.com,20502,79498,2025-04-25,"Low Attendance, Fee Default, Admin Debar"
+516,Harish,Wason,harish.wason@example.com,27175,72825,2025-08-22,"Low Attendance, Fee Default, Admin Debar"
+517,Farhan,Natarajan,farhan.natarajan@example.com,30602,69398,2025-06-29,Fee Default
+518,Prisha,Wable,prisha.wable@example.com,37253,62747,2025-09-02,Fee Default
+519,Yashawini,Mital,yashawini.mital@example.com,22350,77650,2025-05-03,Fee Default
+520,Avni,Goyal,avni.goyal@example.com,20002,79998,2025-06-01,Fee Default
+521,Qasim,Kumer,qasim.kumer@example.com,22643,77357,2025-07-08,Fee Default
+522,Widisha,Pant,widisha.pant@example.com,22566,77434,2025-07-08,"Low Attendance, Fee Default, Admin Debar"
+523,Girish,Sawhney,girish.sawhney@example.com,28034,71966,2025-09-13,Fee Default
+524,Ekanta,Setty,ekanta.setty@example.com,24961,75039,2025-07-20,"Low Attendance, Fee Default, Admin Debar"
+525,Girindra,Badami,girindra.badami@example.com,25857,74143,2025-07-03,Fee Default
+526,Naveen,Kaur,naveen.kaur@example.com,29476,70524,2025-04-22,Fee Default
+527,Garima,Bhavsar,garima.bhavsar@example.com,24897,75103,2025-04-12,"Low Attendance, Fee Default, Admin Debar"
+528,Fariq,Vohra,fariq.vohra@example.com,36717,63283,2025-06-30,Fee Default
+529,Adya,Joshi,adya.joshi@example.com,31323,68677,2025-08-11,Fee Default
+530,Imaran,Merchant,imaran.merchant@example.com,27058,72942,2025-07-11,"Low Attendance, Fee Default, Admin Debar"
+531,Nitara,Mahal,nitara.mahal@example.com,24534,75466,2025-07-22,"Low Average Marks, Low Study + Low Marks, Fee Default"
+532,Harshil,Samra,harshil.samra@example.com,37761,62239,2025-04-20,Fee Default
+533,Nihal,Badami,nihal.badami@example.com,33571,66429,2025-05-23,Fee Default
+534,Arunima,Johal,arunima.johal@example.com,26481,73519,2025-07-01,Fee Default
+535,Yagnesh,Brahmbhatt,yagnesh.brahmbhatt@example.com,37306,62694,2025-05-25,Fee Default
+536,Jagrati,Mammen,jagrati.mammen@example.com,31438,68562,2025-08-12,"Low Attendance, Fee Default, Admin Debar"
+537,Chakradev,Shah,chakradev.shah@example.com,26731,73269,2025-05-29,Fee Default
+538,Zaitra,Bhattacharyya,zaitra.bhattacharyya@example.com,29605,70395,2025-07-06,"Low Attendance, Fee Default, Admin Debar"
+539,Nihal,Singh,nihal.singh@example.com,21081,78919,2025-07-24,"Low Attendance, Fee Default, Admin Debar"
+540,Daksh,Dhar,daksh.dhar@example.com,29678,70322,2025-05-10,"Low Attendance, Fee Default, Admin Debar"
+541,Anamika,Dhar,anamika.dhar@example.com,22078,77922,2025-07-04,Fee Default
+542,Zarna,Doshi,zarna.doshi@example.com,30297,69703,2025-06-09,Fee Default
+543,Pushti,Sheth,pushti.sheth@example.com,34144,65856,2025-05-07,Fee Default
+544,Anika,Dutta,anika.dutta@example.com,32791,67209,2025-06-09,Fee Default
+545,Praneel,Apte,praneel.apte@example.com,36509,63491,2025-06-24,"Low Attendance, Fee Default, Admin Debar"
+546,Sara,Oommen,sara.oommen@example.com,39759,60241,2025-06-28,"Low Attendance, Fee Default, Admin Debar"
+547,Udyati,Viswanathan,udyati.viswanathan@example.com,27768,72232,2025-04-12,"Low Attendance, Fee Default, Admin Debar"
+548,Andrew,Suresh,andrew.suresh@example.com,28608,71392,2025-06-01,"Low Attendance, Fee Default, Admin Debar"
+549,Ekapad,Saini,ekapad.saini@example.com,24607,75393,2025-07-01,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+550,Dhruv,Pall,dhruv.pall@example.com,39684,60316,2025-06-02,"Low Attendance, Fee Default, Admin Debar"
+551,Shivansh,Parmer,shivansh.parmer@example.com,25541,74459,2025-07-18,"Low Attendance, Fee Default, Admin Debar"
+552,Wridesh,Venkatesh,wridesh.venkatesh@example.com,36022,63978,2025-08-05,"Low Attendance, Fee Default, Admin Debar"
+553,Kritika,Vyas,kritika.vyas@example.com,36793,63207,2025-06-23,"Low Attendance, Fee Default, Admin Debar"
+554,Matthew,Sachdev,matthew.sachdev@example.com,29429,70571,2025-08-24,Fee Default
+555,Sudiksha,Lata,sudiksha.lata@example.com,22783,77217,2025-08-15,"Low Attendance, Fee Default, Admin Debar"
+556,Aadi,Hayer,aadi.hayer@example.com,22576,77424,2025-07-06,Fee Default
+557,Panini,Dyal,panini.dyal@example.com,23259,76741,2025-07-26,Fee Default
+558,Forum,Randhawa,forum.randhawa@example.com,25930,74070,2025-06-17,"Low Attendance, Fee Default, Admin Debar"
+559,Dayita,Basu,dayita.basu@example.com,36258,63742,2025-06-17,Fee Default
+560,Damyanti,Merchant,damyanti.merchant@example.com,32760,67240,2025-08-05,"Low Attendance, Fee Default, Admin Debar"
+561,Chatresh,Mammen,chatresh.mammen@example.com,38890,61110,2025-06-04,Fee Default
+562,Zilmil,Merchant,zilmil.merchant@example.com,22066,77934,2025-05-17,"Low Attendance, Fee Default, Admin Debar"
+563,Imaran,Barman,imaran.barman@example.com,38683,61317,2025-07-31,Fee Default
+564,Vaishnavi,Mall,vaishnavi.mall@example.com,32020,67980,2025-04-11,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+565,Amrita,Shenoy,amrita.shenoy@example.com,24141,75859,2025-08-07,"Low Attendance, Fee Default, Admin Debar"
+566,Hamsini,Khurana,hamsini.khurana@example.com,32670,67330,2025-08-28,"Low Attendance, Fee Default, Admin Debar"
+567,Alka,Patel,alka.patel@example.com,29591,70409,2025-06-22,"Low Attendance, Fee Default, Admin Debar"
+568,Nidra,Ranganathan,nidra.ranganathan@example.com,20210,79790,2025-05-31,"Low Attendance, Fee Default, Admin Debar"
+569,Oviya,Dash,oviya.dash@example.com,24726,75274,2025-04-05,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+570,Lakshit,Barad,lakshit.barad@example.com,34699,65301,2025-04-15,Fee Default
+571,Robert,Goyal,robert.goyal@example.com,38245,61755,2025-04-17,Fee Default
+572,Anita,Sagar,anita.sagar@example.com,27042,72958,2025-07-16,"Low Attendance, Fee Default, Admin Debar"
+573,Bhavani,Gupta,bhavani.gupta@example.com,25971,74029,2025-04-30,"Low Average Marks, Multiple Failures, Fee Default"
+574,Tristan,Chaudhary,tristan.chaudhary@example.com,27344,72656,2025-08-10,Fee Default
+575,Reyansh,Mittal,reyansh.mittal@example.com,30042,69958,2025-07-20,Fee Default
+576,Vasudha,Bhandari,vasudha.bhandari@example.com,38576,61424,2025-04-03,"Low Attendance, Fee Default, Admin Debar"
+577,Neelima,Nori,neelima.nori@example.com,30736,69264,2025-06-11,"Low Attendance, Fee Default, Admin Debar"
+578,Janani,Yogi,janani.yogi@example.com,26170,73830,2025-07-12,"Low Attendance, Fee Default, Admin Debar"
+579,Dalbir,Bhargava,dalbir.bhargava@example.com,36229,63771,2025-04-06,"Low Attendance, Fee Default, Admin Debar"
+580,Yatin,Krishnamurthy,yatin.krishnamurthy@example.com,35694,64306,2025-05-26,"Low Attendance, Fee Default, Admin Debar"
+581,Brijesh,Narayanan,brijesh.narayanan@example.com,25949,74051,2025-08-19,Fee Default
+582,Zayan,Thaman,zayan.thaman@example.com,39754,60246,2025-04-09,Fee Default
+583,Jagdish,Tripathi,jagdish.tripathi@example.com,37323,62677,2025-09-07,Fee Default
+584,Hema,Aggarwal,hema.aggarwal@example.com,27796,72204,2025-04-16,Fee Default
+585,Pranit,Mannan,pranit.mannan@example.com,37866,62134,2025-08-30,"Multiple Failures, Fee Default"
+586,Rachana,Goyal,rachana.goyal@example.com,24742,75258,2025-05-17,"Low Attendance, Fee Default, Admin Debar"
+587,Dhriti,Balay,dhriti.balay@example.com,22985,77015,2025-04-03,Fee Default
+588,Yamini,Randhawa,yamini.randhawa@example.com,34285,65715,2025-07-24,Fee Default
+589,Bhavya,Varghese,bhavya.varghese@example.com,35149,64851,2025-09-06,Fee Default
+590,Zayyan,Bhattacharyya,zayyan.bhattacharyya@example.com,23320,76680,2025-07-07,Fee Default
+591,Amara,Banerjee,amara.banerjee@example.com,35748,64252,2025-03-20,Fee Default
+592,Dalbir,Som,dalbir.som@example.com,30633,69367,2025-06-01,Fee Default
+593,Ranveer,Baria,ranveer.baria@example.com,22774,77226,2025-04-27,Fee Default
+594,Oni,Choudhary,oni.choudhary@example.com,33108,66892,2025-03-31,"Low Attendance, Fee Default, Admin Debar"
+595,Naveen,Parsa,naveen.parsa@example.com,31515,68485,2025-04-21,"Low Attendance, Fee Default, Admin Debar"
+596,Vihaan,Cheema,vihaan.cheema@example.com,35183,64817,2025-08-28,"Low Attendance, Fee Default, Admin Debar"
+597,Abha,Vaidya,abha.vaidya@example.com,37036,62964,2025-05-29,Fee Default
+598,Veda,Bansal,veda.bansal@example.com,20792,79208,2025-05-08,Fee Default
+599,William,Swamy,william.swamy@example.com,32484,67516,2025-08-22,"Low Attendance, Fee Default, Admin Debar"
+600,Janya,Dutt,janya.dutt@example.com,24442,75558,2025-03-29,Fee Default
+601,Pranav,Pingle,pranav.pingle@example.com,37929,62071,2025-07-28,"Low Attendance, Fee Default, Admin Debar"
+602,Aadhya,Kumar,aadhya.kumar@example.com,37468,62532,2025-07-17,Fee Default
+603,Rachita,Sarna,rachita.sarna@example.com,24095,75905,2025-07-22,"Low Attendance, Fee Default, Admin Debar"
+604,Naveen,Datta,naveen.datta@example.com,29467,70533,2025-06-15,Fee Default
+605,Yashasvi,Kumar,yashasvi.kumar@example.com,25150,74850,2025-07-31,"Low Attendance, Fee Default, Admin Debar"
+606,Mahika,Sachar,mahika.sachar@example.com,22719,77281,2025-07-28,"Low Attendance, Fee Default, Admin Debar"
+607,Frederick,Mutti,frederick.mutti@example.com,37153,62847,2025-03-30,Fee Default
+608,Kashvi,Kala,kashvi.kala@example.com,34327,65673,2025-09-23,"Low Attendance, Fee Default, Admin Debar"
+609,Mitali,Sama,mitali.sama@example.com,28643,71357,2025-07-30,Fee Default
+610,Atharv,Nadig,atharv.nadig@example.com,32638,67362,2025-08-03,Fee Default
+611,Harinakshi,Upadhyay,harinakshi.upadhyay@example.com,29623,70377,2025-06-25,"Low Attendance, Fee Default, Admin Debar"
+612,Vanya,Wali,vanya.wali@example.com,20108,79892,2025-09-18,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+613,Gayathri,Narayan,gayathri.narayan@example.com,35609,64391,2025-08-28,"Low Attendance, Fee Default, Admin Debar"
+614,Gunbir,Jha,gunbir.jha@example.com,26589,73411,2025-04-21,Fee Default
+615,Anirudh,Bail,anirudh.bail@example.com,29006,70994,2025-05-06,"Low Attendance, Fee Default, Admin Debar"
+616,Aadhya,Natt,aadhya.natt@example.com,35431,64569,2025-05-22,"Low Attendance, Fee Default, Admin Debar"
+617,Ishanvi,Saraf,ishanvi.saraf@example.com,33889,66111,2025-08-28,"Low Attendance, Fee Default, Admin Debar"
+618,Vinaya,Upadhyay,vinaya.upadhyay@example.com,24159,75841,2025-06-08,"Low Average Marks, Multiple Failures, Fee Default"
+619,Thomas,Batra,thomas.batra@example.com,25047,74953,2025-07-05,Fee Default
+620,Ekansh,Baria,ekansh.baria@example.com,29351,70649,2025-08-13,"Low Attendance, Fee Default, Admin Debar"
+621,Ekantika,Panchal,ekantika.panchal@example.com,34279,65721,2025-07-26,Fee Default
+622,Jeremiah,Purohit,jeremiah.purohit@example.com,37863,62137,2025-04-08,"Low Attendance, Fee Default, Admin Debar"
+623,Triveni,Wali,triveni.wali@example.com,27178,72822,2025-08-31,"Low Attendance, Fee Default, Admin Debar"
+624,Ekapad,Kari,ekapad.kari@example.com,28725,71275,2025-08-28,"Low Attendance, Fee Default, Admin Debar"
+625,Jagvi,Mani,jagvi.mani@example.com,33708,66292,2025-09-03,"Low Attendance, Fee Default, Admin Debar"
+626,Siddharth,Subramanian,siddharth.subramanian@example.com,55740,44260,2025-04-12,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+627,Zarna,Biswas,zarna.biswas@example.com,96636,3364,2025-05-07,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+628,Abeer,Sehgal,abeer.sehgal@example.com,81132,18868,2025-11-28,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+629,Raagini,Maharaj,raagini.maharaj@example.com,35925,64075,2025-05-06,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+630,Mugdha,Viswanathan,mugdha.viswanathan@example.com,22511,77489,2025-10-29,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+631,Arunima,Gole,arunima.gole@example.com,50661,49339,2025-04-16,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+632,Nitara,Nazareth,nitara.nazareth@example.com,50644,49356,2025-12-12,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+633,Kashvi,Gara,kashvi.gara@example.com,76026,23974,2025-08-24,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+634,Nidra,Ravi,nidra.ravi@example.com,88898,11102,2025-04-12,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+635,Parth,Bandi,parth.bandi@example.com,32476,67524,2025-05-10,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+636,Faras,Lall,faras.lall@example.com,84122,15878,2025-05-15,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+637,Matthew,Saxena,matthew.saxena@example.com,58536,41464,2025-09-20,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+638,Viraj,Magar,viraj.magar@example.com,30060,69940,2025-11-16,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+639,Siya,Kurian,siya.kurian@example.com,54836,45164,2025-10-22,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+640,Ekta,Thakkar,ekta.thakkar@example.com,44416,55584,2025-09-04,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+641,Jalsa,Rai,jalsa.rai@example.com,89256,10744,2025-08-16,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+642,Tanay,Varughese,tanay.varughese@example.com,99643,357,2025-07-26,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+643,Ethan,Raj,ethan.raj@example.com,88941,11059,2025-04-28,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+644,Ansh,Bala,ansh.bala@example.com,35366,64634,2025-05-29,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+645,Isaac,Jaggi,isaac.jaggi@example.com,28006,71994,2025-06-28,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+646,Siddharth,Nanda,siddharth.nanda@example.com,82262,17738,2025-12-16,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+647,Veda,Master,veda.master@example.com,90422,9578,2025-06-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+648,Saanvi,Krishna,saanvi.krishna@example.com,22609,77391,2025-03-26,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+649,Abeer,Ben,abeer.ben@example.com,74673,25327,2025-04-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+650,Rayaan,Sur,rayaan.sur@example.com,98866,1134,2025-12-06,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+651,Samar,Subramaniam,samar.subramaniam@example.com,48151,51849,2025-03-30,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+652,Balhaar,Mohanty,balhaar.mohanty@example.com,68286,31714,2025-06-08,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+653,Yutika,Bava,yutika.bava@example.com,82874,17126,2025-11-30,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+654,Kala,Ahluwalia,kala.ahluwalia@example.com,33717,66283,2025-10-09,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+655,Varsha,Rout,varsha.rout@example.com,95728,4272,2025-06-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+656,Mahika,Dasgupta,mahika.dasgupta@example.com,49697,50303,2025-09-24,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+657,Charan,Ratti,charan.ratti@example.com,90150,9850,2025-05-05,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+658,Ekanta,Chaudhari,ekanta.chaudhari@example.com,29056,70944,2025-07-02,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+659,Ekapad,Devi,ekapad.devi@example.com,75621,24379,2025-06-06,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+660,Lavanya,Saraf,lavanya.saraf@example.com,40953,59047,2025-04-05,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+661,Onveer,Andra,onveer.andra@example.com,59841,40159,2025-11-11,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+662,Yochana,Chakraborty,yochana.chakraborty@example.com,44111,55889,2025-12-16,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+663,Michael,Barad,michael.barad@example.com,20479,79521,2025-08-07,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+664,Max,Baral,max.baral@example.com,45500,54500,2025-05-10,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+665,Vasatika,Roy,vasatika.roy@example.com,89945,10055,2025-06-06,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+666,Vaishnavi,Bora,vaishnavi.bora@example.com,44808,55192,2025-08-28,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+667,Nathan,Bal,nathan.bal@example.com,68377,31623,2025-07-02,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+668,Krisha,Krishnan,krisha.krishnan@example.com,22224,77776,2025-06-02,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+669,Chaitaly,Saini,chaitaly.saini@example.com,53400,46600,2025-07-21,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+670,Leena,Balakrishnan,leena.balakrishnan@example.com,90234,9766,2025-11-27,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+671,Aarini,Raju,aarini.raju@example.com,97899,2101,2025-11-11,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+672,Ekavir,Bala,ekavir.bala@example.com,83862,16138,2025-07-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+673,Pratyush,Viswanathan,pratyush.viswanathan@example.com,73439,26561,2025-04-26,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+674,Quincy,Lalla,quincy.lalla@example.com,78806,21194,2025-11-02,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+675,Mahika,Johal,mahika.johal@example.com,70471,29529,2025-05-13,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+676,Logan,Bose,logan.bose@example.com,54240,45760,2025-08-09,"Low Attendance, Low Average Marks, High Risk Combo"
+677,Aarini,Nath,aarini.nath@example.com,59238,40762,2025-04-14,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+678,Frado,Subramanian,frado.subramanian@example.com,24326,75674,2025-08-27,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+679,Vihaan,Bhattacharyya,vihaan.bhattacharyya@example.com,56138,43862,2025-11-07,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+680,Widisha,Vig,widisha.vig@example.com,70284,29716,2025-04-25,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+681,Meghana,Gaba,meghana.gaba@example.com,54228,45772,2025-03-23,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+682,Bhavani,Basu,bhavani.basu@example.com,41350,58650,2025-06-26,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+683,Qarin,Sani,qarin.sani@example.com,52337,47663,2025-11-25,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+684,Onkar,Natt,onkar.natt@example.com,94952,5048,2025-04-02,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+685,Parth,Vohra,parth.vohra@example.com,42314,57686,2025-07-28,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+686,Bimala,Upadhyay,bimala.upadhyay@example.com,72902,27098,2025-07-21,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+687,Eshana,Behl,eshana.behl@example.com,92642,7358,2025-07-15,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+688,Hemani,Solanki,hemani.solanki@example.com,76337,23663,2025-05-27,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+689,Jonathan,Singhal,jonathan.singhal@example.com,47348,52652,2025-04-13,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+690,Ethan,Wali,ethan.wali@example.com,60974,39026,2025-07-26,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+691,Urmi,Mann,urmi.mann@example.com,21159,78841,2025-03-28,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+692,Devansh,Sharaf,devansh.sharaf@example.com,74910,25090,2025-11-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+693,Ryan,Kamdar,ryan.kamdar@example.com,34426,65574,2025-04-02,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+694,Keya,Pillay,keya.pillay@example.com,91536,8464,2025-06-11,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+695,Xalak,Raju,xalak.raju@example.com,31975,68025,2025-08-12,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+696,Siya,Vala,siya.vala@example.com,45211,54789,2025-09-21,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+697,Chaman,Hegde,chaman.hegde@example.com,29737,70263,2025-10-08,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+698,Anika,Keer,anika.keer@example.com,23753,76247,2025-09-23,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+699,Aditya,Kant,aditya.kant@example.com,69484,30516,2025-05-27,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+700,Adya,Agarwal,adya.agarwal@example.com,31896,68104,2025-05-12,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+701,Ekantika,Soman,ekantika.soman@example.com,81823,18177,2025-11-26,"Low Attendance, Low Average Marks, Low Study + Low Marks, High Risk Combo"
+702,Idika,Yogi,idika.yogi@example.com,96459,3541,2025-11-10,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+703,Warjas,Johal,warjas.johal@example.com,59669,40331,2025-06-24,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+704,Ranveer,Badal,ranveer.badal@example.com,32005,67995,2025-09-19,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+705,Ethan,Radhakrishnan,ethan.radhakrishnan@example.com,51862,48138,2025-05-31,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+706,Aarush,Saini,aarush.saini@example.com,28152,71848,2025-06-19,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+707,Dipta,Deep,dipta.deep@example.com,58598,41402,2025-09-25,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+708,Urishilla,Bhandari,urishilla.bhandari@example.com,64180,35820,2025-07-27,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+709,Anusha,Shenoy,anusha.shenoy@example.com,63242,36758,2025-07-08,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+710,Leena,Iyer,leena.iyer@example.com,41709,58291,2025-07-15,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+711,Lila,Pandit,lila.pandit@example.com,97997,2003,2025-11-26,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+712,Bhanumati,Wagle,bhanumati.wagle@example.com,77791,22209,2025-10-13,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+713,Megha,Karpe,megha.karpe@example.com,69855,30145,2025-04-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+714,Bimala,Shenoy,bimala.shenoy@example.com,58391,41609,2025-11-24,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+715,Pratyush,Barad,pratyush.barad@example.com,40223,59777,2025-12-04,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+716,Arin,Boase,arin.boase@example.com,92900,7100,2025-12-04,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+717,Mason,Goyal,mason.goyal@example.com,42109,57891,2025-06-07,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+718,Yashvi,Kakar,yashvi.kakar@example.com,32529,67471,2025-10-01,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+719,Quincy,Merchant,quincy.merchant@example.com,75763,24237,2025-04-07,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+720,Sara,Dyal,sara.dyal@example.com,39068,60932,2025-11-23,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+721,Ucchal,Varty,ucchal.varty@example.com,89306,10694,2025-12-09,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+722,Vidhi,Shere,vidhi.shere@example.com,64010,35990,2025-08-31,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+723,Gagan,Gera,gagan.gera@example.com,30639,69361,2025-05-22,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, Fee Default, High Risk Combo, Admin Debar"
+724,Daniel,Barad,daniel.barad@example.com,77907,22093,2025-12-13,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+725,Yutika,Kade,yutika.kade@example.com,29903,70097,2025-08-11,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+726,Ekapad,Parmer,ekapad.parmer@example.com,73352,26648,2025-11-12,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+727,Udarsh,Singhal,udarsh.singhal@example.com,87720,12280,2025-10-12,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+728,Avi,Chanda,avi.chanda@example.com,80199,19801,2025-05-27,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+729,Samesh,Khare,samesh.khare@example.com,47108,52892,2025-06-28,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+730,Chatresh,Kapadia,chatresh.kapadia@example.com,98531,1469,2025-04-28,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+731,Hiral,Chowdhury,hiral.chowdhury@example.com,61411,38589,2025-08-24,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+732,Dalaja,Nath,dalaja.nath@example.com,47246,52754,2025-12-20,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+733,Brinda,Kothari,brinda.kothari@example.com,67969,32031,2025-11-07,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+734,Ekalinga,Sahota,ekalinga.sahota@example.com,36846,63154,2025-07-28,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+735,Advay,Bera,advay.bera@example.com,52106,47894,2025-06-12,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+736,Anita,Golla,anita.golla@example.com,31854,68146,2025-07-22,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+737,Ekansh,Varghese,ekansh.varghese@example.com,43571,56429,2025-10-09,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+738,Chaitaly,Gokhale,chaitaly.gokhale@example.com,20557,79443,2025-11-25,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+739,Frado,Murthy,frado.murthy@example.com,25170,74830,2025-12-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+740,Prisha,Agate,prisha.agate@example.com,75103,24897,2025-11-07,"Low Attendance, Low Average Marks, High Risk Combo"
+741,Benjamin,Lall,benjamin.lall@example.com,80107,19893,2025-06-24,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+742,Jyoti,Sastry,jyoti.sastry@example.com,23588,76412,2025-11-18,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+743,Deepa,Krishnamurthy,deepa.krishnamurthy@example.com,77142,22858,2025-10-14,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+744,Bachittar,Chakrabarti,bachittar.chakrabarti@example.com,93958,6042,2025-07-29,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+745,Harish,Sura,harish.sura@example.com,99616,384,2025-06-21,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+746,Lakshmi,Savant,lakshmi.savant@example.com,29261,70739,2025-11-25,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+747,Falguni,Dani,falguni.dani@example.com,42791,57209,2025-12-08,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+748,Kai,Subramanian,kai.subramanian@example.com,62157,37843,2025-08-15,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+749,Dev,Seshadri,dev.seshadri@example.com,31081,68919,2025-11-24,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+750,Yadavi,Hans,yadavi.hans@example.com,63781,36219,2025-04-24,"Low Attendance, Low Average Marks, Multiple Failures, Low Study + Low Marks, High Risk Combo"
+751,Nilima,Mani,nilima.mani@example.com,34717,65283,2025-06-19,"Low Attendance, Fee Default, Admin Debar"
+752,Guneet,Walia,guneet.walia@example.com,36291,63709,2025-04-09,"Low Attendance, Fee Default, Admin Debar"
+753,Varenya,Mallick,varenya.mallick@example.com,35200,64800,2025-03-25,"Low Attendance, Fee Default, Admin Debar"
+754,Inaya,Cherian,inaya.cherian@example.com,29592,70408,2025-05-28,"Low Attendance, Fee Default, Admin Debar"
+755,Krisha,Saraf,krisha.saraf@example.com,29946,70054,2025-09-07,"Low Attendance, Fee Default, Admin Debar"
+756,Madhavi,Comar,madhavi.comar@example.com,30534,69466,2025-07-05,"Low Attendance, Fee Default, Admin Debar"
+757,Lohit,Gokhale,lohit.gokhale@example.com,37291,62709,2025-05-29,"Low Attendance, Fee Default, Admin Debar"
+758,Harsh,Subramanian,harsh.subramanian@example.com,35828,64172,2025-07-04,"Low Attendance, Fee Default, Admin Debar"
+759,Anthony,Mann,anthony.mann@example.com,23542,76458,2025-04-19,"Low Attendance, Fee Default, Admin Debar"
+760,Chavvi,Ramakrishnan,chavvi.ramakrishnan@example.com,39249,60751,2025-08-23,"Low Attendance, Fee Default, Admin Debar"
+761,Aditya,Pal,aditya.pal@example.com,36526,63474,2025-05-27,"Low Attendance, Fee Default, Admin Debar"
+762,Abha,Chaudhary,abha.chaudhary@example.com,33751,66249,2025-04-22,"Low Attendance, Fee Default, Admin Debar"
+763,Gopal,Varma,gopal.varma@example.com,37779,62221,2025-06-06,"Low Attendance, Fee Default, Admin Debar"
+764,Chaitanya,Sankaran,chaitanya.sankaran@example.com,20499,79501,2025-05-30,"Low Attendance, Fee Default, Admin Debar"
+765,Tanveer,Padmanabhan,tanveer.padmanabhan@example.com,21359,78641,2025-09-07,"Low Attendance, Fee Default, Admin Debar"
+766,Ikbal,Sidhu,ikbal.sidhu@example.com,24324,75676,2025-05-01,"Low Attendance, Fee Default, Admin Debar"
+767,Varsha,Gade,varsha.gade@example.com,31967,68033,2025-05-24,"Low Attendance, Fee Default, Admin Debar"
+768,Sai,Agrawal,sai.agrawal@example.com,25736,74264,2025-09-11,"Low Attendance, Fee Default, Admin Debar"
+769,Nirja,Dhawan,nirja.dhawan@example.com,24487,75513,2025-06-02,"Low Attendance, Fee Default, Admin Debar"
+770,Yahvi,Gandhi,yahvi.gandhi@example.com,23368,76632,2025-07-30,"Low Attendance, Fee Default, Admin Debar"
+771,Sathvik,Butala,sathvik.butala@example.com,28451,71549,2025-09-15,"Low Attendance, Fee Default, Admin Debar"
+772,Henry,Barman,henry.barman@example.com,39363,60637,2025-08-02,"Low Attendance, Fee Default, Admin Debar"
+773,Hemang,Krishnan,hemang.krishnan@example.com,21679,78321,2025-06-03,"Low Attendance, Fee Default, Admin Debar"
+774,Jagat,Sathe,jagat.sathe@example.com,20340,79660,2025-04-18,"Low Attendance, Fee Default, Admin Debar"
+775,Nidhi,Soman,nidhi.soman@example.com,33830,66170,2025-08-18,"Low Attendance, Fee Default, Admin Debar"
+776,Varsha,Sachdev,varsha.sachdev@example.com,37160,62840,2025-04-19,"Low Attendance, Fee Default, Admin Debar"
+777,Pranav,Jain,pranav.jain@example.com,33805,66195,2025-04-14,"Low Attendance, Fee Default, Admin Debar"
+778,Kai,Chahal,kai.chahal@example.com,21312,78688,2025-06-09,"Low Attendance, Fee Default, Admin Debar"
+779,Tanmayi,Trivedi,tanmayi.trivedi@example.com,22947,77053,2025-07-09,"Low Attendance, Fee Default, Admin Debar"
+780,Aryan,Devi,aryan.devi@example.com,25366,74634,2025-07-15,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+781,Oliver,Yadav,oliver.yadav@example.com,34451,65549,2025-04-07,"Low Attendance, Fee Default, Admin Debar"
+782,Wyatt,Pal,wyatt.pal@example.com,20054,79946,2025-03-20,"Low Attendance, Fee Default, Admin Debar"
+783,Megha,Murthy,megha.murthy@example.com,22719,77281,2025-06-26,"Low Attendance, Fee Default, Admin Debar"
+784,Advay,Verma,advay.verma@example.com,28187,71813,2025-06-24,"Low Attendance, Fee Default, Admin Debar"
+785,Jai,Memon,jai.memon@example.com,29423,70577,2025-04-13,"Low Attendance, Fee Default, Admin Debar"
+786,Anthony,Wason,anthony.wason@example.com,20485,79515,2025-07-21,"Low Attendance, Fee Default, Admin Debar"
+787,Mohini,Taneja,mohini.taneja@example.com,35076,64924,2025-06-22,"Low Attendance, Fee Default, Admin Debar"
+788,Barkha,Doctor,barkha.doctor@example.com,24695,75305,2025-03-21,"Low Attendance, Fee Default, Admin Debar"
+789,Arin,Mammen,arin.mammen@example.com,31043,68957,2025-06-25,"Low Attendance, Fee Default, Admin Debar"
+790,Praneel,Natt,praneel.natt@example.com,20937,79063,2025-04-08,"Low Attendance, Fee Default, Admin Debar"
+791,Orinder,Ghosh,orinder.ghosh@example.com,21702,78298,2025-03-23,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+792,Abhimanyu,Thaman,abhimanyu.thaman@example.com,34897,65103,2025-08-10,"Low Attendance, Fee Default, Admin Debar"
+793,Ikshita,Subramaniam,ikshita.subramaniam@example.com,37090,62910,2025-04-03,"Low Attendance, Fee Default, Admin Debar"
+794,Tristan,Rao,tristan.rao@example.com,30473,69527,2025-06-15,"Low Attendance, Fee Default, Admin Debar"
+795,Mekhala,Sethi,mekhala.sethi@example.com,32177,67823,2025-04-21,"Low Attendance, Fee Default, Admin Debar"
+796,Gaurang,Peri,gaurang.peri@example.com,22112,77888,2025-03-20,"Low Attendance, Fee Default, Admin Debar"
+797,Daksha,Chahal,daksha.chahal@example.com,35675,64325,2025-05-28,"Low Attendance, Fee Default, Admin Debar"
+798,Edhitha,Lalla,edhitha.lalla@example.com,32901,67099,2025-05-20,"Low Attendance, Fee Default, Admin Debar"
+799,Ekbal,Sahni,ekbal.sahni@example.com,37839,62161,2025-08-19,"Low Attendance, Fee Default, Admin Debar"
+800,Ekalinga,Dass,ekalinga.dass@example.com,33834,66166,2025-08-23,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+801,George,Ganesh,george.ganesh@example.com,32646,67354,2025-09-17,"Low Attendance, Fee Default, Admin Debar"
+802,Sanaya,Buch,sanaya.buch@example.com,26678,73322,2025-09-04,"Low Attendance, Fee Default, Admin Debar"
+803,Bhavika,Ahluwalia,bhavika.ahluwalia@example.com,38830,61170,2025-08-30,"Low Attendance, Fee Default, Admin Debar"
+804,Jackson,Subramanian,jackson.subramanian@example.com,37295,62705,2025-06-18,"Low Attendance, Fee Default, Admin Debar"
+805,Kavya,Mandal,kavya.mandal@example.com,25754,74246,2025-04-27,"Low Attendance, Fee Default, Admin Debar"
+806,Shivansh,Gupta,shivansh.gupta@example.com,39647,60353,2025-08-26,"Low Attendance, Fee Default, Admin Debar"
+807,Sai,Badal,sai.badal@example.com,23678,76322,2025-08-20,"Low Attendance, Fee Default, Admin Debar"
+808,Advay,Mangal,advay.mangal@example.com,34216,65784,2025-07-09,"Low Attendance, Fee Default, Admin Debar"
+809,Samarth,Om,samarth.om@example.com,28912,71088,2025-04-14,"Low Attendance, Fee Default, Admin Debar"
+810,Parth,Arora,parth.arora@example.com,21686,78314,2025-07-31,"Low Attendance, Fee Default, Admin Debar"
+811,Baljiwan,Menon,baljiwan.menon@example.com,21669,78331,2025-09-08,"Low Attendance, Fee Default, Admin Debar"
+812,Wridesh,Bhatnagar,wridesh.bhatnagar@example.com,22769,77231,2025-06-12,"Low Attendance, Fee Default, Admin Debar"
+813,Oliver,Patla,oliver.patla@example.com,37276,62724,2025-04-12,"Low Attendance, Fee Default, Admin Debar"
+814,Sarthak,Sidhu,sarthak.sidhu@example.com,26105,73895,2025-05-25,"Low Attendance, Fee Default, Admin Debar"
+815,Zashil,Upadhyay,zashil.upadhyay@example.com,33267,66733,2025-05-10,"Low Attendance, Fee Default, Admin Debar"
+816,Xavier,Mukherjee,xavier.mukherjee@example.com,28907,71093,2025-04-18,"Low Attendance, Fee Default, Admin Debar"
+817,Yatan,Mann,yatan.mann@example.com,20285,79715,2025-08-26,"Low Attendance, Fee Default, Admin Debar"
+818,Balveer,Kapoor,balveer.kapoor@example.com,27873,72127,2025-03-30,"Low Attendance, Fee Default, Admin Debar"
+819,Meera,Nadkarni,meera.nadkarni@example.com,28362,71638,2025-08-24,"Low Attendance, Fee Default, Admin Debar"
+820,Hiral,Mannan,hiral.mannan@example.com,36954,63046,2025-04-10,"Low Attendance, Fee Default, Admin Debar"
+821,Darpan,Ahuja,darpan.ahuja@example.com,25124,74876,2025-09-06,"Low Attendance, Fee Default, Admin Debar"
+822,Amaira,Sankaran,amaira.sankaran@example.com,24453,75547,2025-07-07,"Low Attendance, Fee Default, Admin Debar"
+823,Aachal,Patil,aachal.patil@example.com,20375,79625,2025-07-08,"Low Attendance, Fee Default, Admin Debar"
+824,Yashoda,Pathak,yashoda.pathak@example.com,38470,61530,2025-09-11,"Low Attendance, Fee Default, Admin Debar"
+825,Pallavi,Rai,pallavi.rai@example.com,27482,72518,2025-07-23,"Low Attendance, Fee Default, Admin Debar"
+826,Bina,Mand,bina.mand@example.com,27035,72965,2025-06-19,"Low Attendance, Fee Default, Admin Debar"
+827,Vritti,Mangat,vritti.mangat@example.com,31403,68597,2025-06-05,"Low Attendance, Fee Default, Admin Debar"
+828,Gagan,Shah,gagan.shah@example.com,22449,77551,2025-06-27,"Low Attendance, Fee Default, Admin Debar"
+829,Faras,Saini,faras.saini@example.com,26130,73870,2025-08-17,"Low Attendance, Fee Default, Admin Debar"
+830,Fitan,Chaudhari,fitan.chaudhari@example.com,33924,66076,2025-05-17,"Low Attendance, Fee Default, Admin Debar"
+831,Fitan,Kulkarni,fitan.kulkarni@example.com,26694,73306,2025-04-04,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+832,Oni,Bakshi,oni.bakshi@example.com,37721,62279,2025-07-11,"Low Attendance, Fee Default, Admin Debar"
+833,Charvi,Deshmukh,charvi.deshmukh@example.com,31121,68879,2025-05-20,"Low Attendance, Fee Default, Admin Debar"
+834,Madhavi,Kannan,madhavi.kannan@example.com,30429,69571,2025-06-24,"Low Attendance, Fee Default, Admin Debar"
+835,Forum,Chandran,forum.chandran@example.com,32625,67375,2025-03-20,"Low Attendance, Fee Default, Admin Debar"
+836,Raagini,Morar,raagini.morar@example.com,25355,74645,2025-07-01,"Low Attendance, Fee Default, Admin Debar"
+837,Bhanumati,Oza,bhanumati.oza@example.com,31418,68582,2025-08-22,"Low Attendance, Fee Default, Admin Debar"
+838,Rajata,Divan,rajata.divan@example.com,38901,61099,2025-08-14,"Low Attendance, Fee Default, Admin Debar"
+839,Yashoda,Pandya,yashoda.pandya@example.com,33308,66692,2025-09-07,"Low Attendance, Fee Default, Admin Debar"
+840,Balvan,Bhasin,balvan.bhasin@example.com,26247,73753,2025-08-12,"Low Attendance, Fee Default, Admin Debar"
+841,Harish,Koshy,harish.koshy@example.com,29262,70738,2025-05-13,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+842,Aryan,Uppal,aryan.uppal@example.com,29236,70764,2025-06-12,"Low Attendance, Fee Default, Admin Debar"
+843,Unnati,Ramesh,unnati.ramesh@example.com,34691,65309,2025-06-15,"Low Attendance, Fee Default, Admin Debar"
+844,Bhavini,Kaur,bhavini.kaur@example.com,34484,65516,2025-09-11,"Low Attendance, Fee Default, Admin Debar"
+845,Fitan,Palan,fitan.palan@example.com,28863,71137,2025-06-16,"Low Attendance, Fee Default, Admin Debar"
+846,Osha,Raval,osha.raval@example.com,23106,76894,2025-08-10,"Low Attendance, Fee Default, Admin Debar"
+847,Thomas,Suresh,thomas.suresh@example.com,21415,78585,2025-03-20,"Low Attendance, Fee Default, Admin Debar"
+848,Bhavini,Parikh,bhavini.parikh@example.com,25247,74753,2025-03-25,"Low Attendance, Fee Default, Admin Debar"
+849,Indrajit,Majumdar,indrajit.majumdar@example.com,35801,64199,2025-05-31,"Low Attendance, Fee Default, Admin Debar"
+850,Dhriti,Sheth,dhriti.sheth@example.com,26354,73646,2025-07-14,"Low Attendance, Fee Default, Admin Debar"
+851,Nidhi,Rege,nidhi.rege@example.com,22111,77889,2025-07-10,"Low Attendance, Fee Default, Admin Debar"
+852,Fiyaz,Varughese,fiyaz.varughese@example.com,29185,70815,2025-05-08,"Low Attendance, Fee Default, Admin Debar"
+853,Unnati,Sankaran,unnati.sankaran@example.com,33204,66796,2025-04-29,"Low Attendance, Fee Default, Admin Debar"
+854,Vedhika,Karpe,vedhika.karpe@example.com,36802,63198,2025-04-02,"Low Attendance, Fee Default, Admin Debar"
+855,Urvi,Sankaran,urvi.sankaran@example.com,21372,78628,2025-06-25,"Low Attendance, Fee Default, Admin Debar"
+856,Diya,Parmar,diya.parmar@example.com,26014,73986,2025-03-28,"Low Attendance, Fee Default, Admin Debar"
+857,Sathvik,Dutta,sathvik.dutta@example.com,27106,72894,2025-03-26,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+858,Shivani,Parmer,shivani.parmer@example.com,20069,79931,2025-08-01,"Low Attendance, Fee Default, Admin Debar"
+859,Atharv,Devan,atharv.devan@example.com,38152,61848,2025-07-06,"Low Attendance, Fee Default, Admin Debar"
+860,Ayaan,Bhargava,ayaan.bhargava@example.com,38882,61118,2025-08-14,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+861,Manthan,Upadhyay,manthan.upadhyay@example.com,20543,79457,2025-08-06,"Low Attendance, Fee Default, Admin Debar"
+862,Gautam,Uppal,gautam.uppal@example.com,20238,79762,2025-08-31,"Low Attendance, Fee Default, Admin Debar"
+863,Ekansh,Jain,ekansh.jain@example.com,31340,68660,2025-07-26,"Low Attendance, Low Average Marks, Multiple Failures, Fee Default, High Risk Combo, Admin Debar"
+864,Vamakshi,Bajaj,vamakshi.bajaj@example.com,24606,75394,2025-07-08,"Low Attendance, Fee Default, Admin Debar"
+865,Bishakha,Sen,bishakha.sen@example.com,31399,68601,2025-08-21,"Low Attendance, Fee Default, Admin Debar"
+866,Frado,Mani,frado.mani@example.com,23621,76379,2025-07-04,"Low Attendance, Fee Default, Admin Debar"
+867,Anya,Sem,anya.sem@example.com,32697,67303,2025-04-22,"Low Attendance, Fee Default, Admin Debar"
+868,Mugdha,Gera,mugdha.gera@example.com,37791,62209,2025-05-15,"Low Attendance, Fee Default, Admin Debar"
+869,Suhani,Oza,suhani.oza@example.com,28164,71836,2025-05-19,"Low Attendance, Fee Default, Admin Debar"
+870,Wyatt,Seshadri,wyatt.seshadri@example.com,25871,74129,2025-04-13,"Low Attendance, Fee Default, Admin Debar"
+871,Luke,Dhingra,luke.dhingra@example.com,38370,61630,2025-04-20,"Low Attendance, Fee Default, Admin Debar"
+872,Ryan,Balasubramanian,ryan.balasubramanian@example.com,33532,66468,2025-05-06,"Low Attendance, Fee Default, Admin Debar"
+873,Veda,Doshi,veda.doshi@example.com,20625,79375,2025-08-31,"Low Attendance, Fee Default, Admin Debar"
+874,Brinda,Nagar,brinda.nagar@example.com,34459,65541,2025-06-28,"Low Attendance, Fee Default, Admin Debar"
+875,Daksha,Lata,daksha.lata@example.com,31733,68267,2025-04-02,"Low Attendance, Fee Default, Admin Debar"
+876,Krishna,Bhalla,krishna.bhalla@example.com,86467,13533,2025-10-14,None
+877,Daksh,Master,daksh.master@example.com,35612,64388,2025-07-05,"Low Attendance, Fee Default, Admin Debar"
+878,Janaki,De,janaki.de@example.com,74150,25850,2025-08-06,Low Attendance
+879,Triveni,Dhingra,triveni.dhingra@example.com,85008,14992,2025-05-02,None
+880,Chaman,Raja,chaman.raja@example.com,87596,12404,2025-04-04,None
+881,Charita,Brahmbhatt,charita.brahmbhatt@example.com,83393,16607,2025-12-04,None
+882,Pranav,Talwar,pranav.talwar@example.com,92744,7256,2025-08-07,None
+883,Yash,Dasgupta,yash.dasgupta@example.com,85415,14585,2025-09-28,None
+884,Praneel,Mishra,praneel.mishra@example.com,84508,15492,2025-08-14,Low Attendance
+885,Henry,Walla,henry.walla@example.com,62835,37165,2025-05-18,"Low Attendance, Multiple Failures"
+886,Jeremiah,Basu,jeremiah.basu@example.com,22713,77287,2025-08-09,"Low Attendance, Fee Default, Admin Debar"
+887,Yamini,Ghosh,yamini.ghosh@example.com,94077,5923,2025-04-03,Low Attendance
+888,Nathaniel,Varty,nathaniel.varty@example.com,87805,12195,2025-05-08,Multiple Failures
+889,Shivansh,Johal,shivansh.johal@example.com,80525,19475,2025-11-13,None
+890,Irya,Dora,irya.dora@example.com,44918,55082,2025-07-20,Fee Default
+891,Yashvi,Tiwari,yashvi.tiwari@example.com,99516,484,2025-09-13,None
+892,Xavier,Shankar,xavier.shankar@example.com,28883,71117,2025-12-21,None
+893,Finn,Balay,finn.balay@example.com,54406,45594,2025-03-21,Low Attendance
+894,Unni,Sodhi,unni.sodhi@example.com,87677,12323,2025-05-24,None
+895,Darsh,Chadha,darsh.chadha@example.com,90817,9183,2025-05-29,Low Attendance
+896,William,Swamy,william.swamy@example.com,50119,49881,2025-11-22,Low Attendance
+897,Zarna,Ganguly,zarna.ganguly@example.com,49106,50894,2025-12-15,Low Attendance
+898,Faras,Vig,faras.vig@example.com,66052,33948,2025-06-30,None
+899,Nilima,Prabhu,nilima.prabhu@example.com,59372,40628,2025-10-28,Low Attendance
+900,Mohammed,Sahota,mohammed.sahota@example.com,98323,1677,2025-07-11,"Low Average Marks, Low Study + Low Marks"
+901,Yachana,Raju,yachana.raju@example.com,99542,458,2025-10-09,Low Attendance
+902,Caleb,Sridhar,caleb.sridhar@example.com,34910,65090,2025-05-06,Fee Default
+903,Girish,Subramanian,girish.subramanian@example.com,52452,47548,2025-10-01,None
+904,Azad,Basu,azad.basu@example.com,70284,29716,2025-09-15,None
+905,Isha,Choudhary,isha.choudhary@example.com,58981,41019,2025-05-20,Low Attendance
+906,Nandini,Trivedi,nandini.trivedi@example.com,78090,21910,2025-06-16,Low Attendance
+907,Mohini,Zacharia,mohini.zacharia@example.com,76864,23136,2025-12-13,None
+908,David,Bal,david.bal@example.com,49866,50134,2025-11-14,Low Attendance
+909,Tanveer,Bhat,tanveer.bhat@example.com,97850,2150,2025-06-14,Low Attendance
+910,Jagdish,Varughese,jagdish.varughese@example.com,47448,52552,2025-04-30,Fee Default
+911,Anirudh,Bhakta,anirudh.bhakta@example.com,83937,16063,2025-09-09,None
+912,Ryan,Thakur,ryan.thakur@example.com,96812,3188,2025-07-08,None
+913,Devansh,Kala,devansh.kala@example.com,41499,58501,2025-08-13,Fee Default
+914,Harshil,Kunda,harshil.kunda@example.com,35954,64046,2025-06-26,"Low Attendance, Fee Default, Admin Debar"
+915,Lavanya,Golla,lavanya.golla@example.com,30419,69581,2025-05-07,Fee Default
+916,Azaan,Mani,azaan.mani@example.com,63828,36172,2025-07-01,Low Attendance
+917,Zarna,Deshpande,zarna.deshpande@example.com,62998,37002,2025-05-14,Low Attendance
+918,Joshua,Prasad,joshua.prasad@example.com,55267,44733,2025-04-25,None
+919,Anirudh,Dutt,anirudh.dutt@example.com,45920,54080,2025-08-23,Fee Default
+920,Pooja,Ramachandran,pooja.ramachandran@example.com,61264,38736,2025-07-03,None
+921,Tanay,Muni,tanay.muni@example.com,96685,3315,2025-10-01,None
+922,Manya,Chad,manya.chad@example.com,54240,45760,2025-08-04,Low Attendance
+923,Rohan,Chanda,rohan.chanda@example.com,79836,20164,2025-12-24,"Low Average Marks, Multiple Failures"
+924,Anika,Dara,anika.dara@example.com,61379,38621,2025-05-01,Low Attendance
+925,Noah,Sule,noah.sule@example.com,61502,38498,2025-07-08,None
+926,Yutika,Krishnamurthy,yutika.krishnamurthy@example.com,23239,76761,2025-05-15,Fee Default
+927,Sarthak,Oommen,sarthak.oommen@example.com,42478,57522,2025-08-11,"Low Average Marks, Multiple Failures, Fee Default"
+928,Udant,Taneja,udant.taneja@example.com,98828,1172,2025-08-25,None
+929,Aditya,Vohra,aditya.vohra@example.com,89277,10723,2025-08-26,None
+930,Anya,Nanda,anya.nanda@example.com,49509,50491,2025-09-06,"Low Attendance, Fee Default, Admin Debar"
+931,Vinaya,Gaba,vinaya.gaba@example.com,82307,17693,2025-10-05,Low Attendance
+932,Mohini,Chaudhry,mohini.chaudhry@example.com,79078,20922,2025-12-12,None
+933,Rayaan,Konda,rayaan.konda@example.com,37213,62787,2025-08-23,Fee Default
+934,Vedant,Ghose,vedant.ghose@example.com,95067,4933,2025-07-21,None
+935,Radha,Ram,radha.ram@example.com,28883,71117,2025-11-02,Low Attendance
+936,Azad,Madan,azad.madan@example.com,37289,62711,2025-09-29,None
+937,Sara,Dash,sara.dash@example.com,44602,55398,2025-10-07,None
+938,Radhika,Shanker,radhika.shanker@example.com,81617,18383,2025-08-31,Low Attendance
+939,Champak,Patla,champak.patla@example.com,30402,69598,2025-11-18,None
+940,Pahal,Parsa,pahal.parsa@example.com,37666,62334,2025-07-09,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+941,Christopher,Chawla,christopher.chawla@example.com,86166,13834,2025-09-24,Low Attendance
+942,Charles,Natt,charles.natt@example.com,22395,77605,2025-06-26,"Low Attendance, Fee Default, Admin Debar"
+943,Qarin,Kibe,qarin.kibe@example.com,68522,31478,2025-07-03,None
+944,Waida,Thakur,waida.thakur@example.com,22032,77968,2025-07-21,"Low Attendance, Fee Default, Admin Debar"
+945,Maanas,Walia,maanas.walia@example.com,88719,11281,2025-05-31,None
+946,Eshana,Mannan,eshana.mannan@example.com,64931,35069,2025-07-03,None
+947,Vedhika,Salvi,vedhika.salvi@example.com,61337,38663,2025-07-30,None
+948,Vrinda,Bedi,vrinda.bedi@example.com,63174,36826,2025-11-21,Low Attendance
+949,Zinal,Keer,zinal.keer@example.com,59372,40628,2025-11-09,None
+950,Zaid,Naidu,zaid.naidu@example.com,31819,68181,2025-04-03,"Low Attendance, Fee Default, Admin Debar"
+951,Chandani,Narang,chandani.narang@example.com,88212,11788,2025-11-17,None
+952,Aadhya,Chaudhary,aadhya.chaudhary@example.com,93409,6591,2025-10-21,Low Attendance
+953,Keya,Balasubramanian,keya.balasubramanian@example.com,50396,49604,2025-06-23,Low Attendance
+954,Warda,Singh,warda.singh@example.com,94752,5248,2025-05-11,Low Attendance
+955,Shaurya,Bath,shaurya.bath@example.com,57618,42382,2025-11-03,None
+956,Charles,Sekhon,charles.sekhon@example.com,36074,63926,2025-05-12,"Low Attendance, Fee Default, Admin Debar"
+957,Laksh,Soman,laksh.soman@example.com,52701,47299,2025-12-18,None
+958,Ishani,Sura,ishani.sura@example.com,36443,63557,2025-10-20,Low Attendance
+959,Vivaan,Acharya,vivaan.acharya@example.com,66332,33668,2025-07-07,Low Attendance
+960,Hemal,Ghosh,hemal.ghosh@example.com,61673,38327,2025-03-24,Low Attendance
+961,Gautam,Kapur,gautam.kapur@example.com,27133,72867,2025-08-06,"Low Attendance, Fee Default, Admin Debar"
+962,William,Dhawan,william.dhawan@example.com,46400,53600,2025-09-27,Low Attendance
+963,Mitali,Acharya,mitali.acharya@example.com,29981,70019,2025-07-16,"Low Attendance, Fee Default, Admin Debar"
+964,Vyanjana,Krish,vyanjana.krish@example.com,87427,12573,2025-10-31,None
+965,Kamala,Rajagopalan,kamala.rajagopalan@example.com,77622,22378,2025-09-26,Low Attendance
+966,Azad,Zacharia,azad.zacharia@example.com,53898,46102,2025-09-25,None
+967,Owen,Pau,owen.pau@example.com,86968,13032,2025-12-06,"Low Average Marks, Multiple Failures"
+968,Inaya,Balasubramanian,inaya.balasubramanian@example.com,76965,23035,2025-04-18,None
+969,Wriddhish,Kaur,wriddhish.kaur@example.com,32375,67625,2025-11-19,"Low Attendance, Low Average Marks, Multiple Failures, High Risk Combo"
+970,Faris,Khosla,faris.khosla@example.com,88411,11589,2025-10-03,None
+971,Wriddhish,Dash,wriddhish.dash@example.com,74421,25579,2025-11-16,None
+972,Ishanvi,Dhaliwal,ishanvi.dhaliwal@example.com,45344,54656,2025-11-08,None
+973,Avi,Dave,avi.dave@example.com,38466,61534,2025-05-13,Fee Default
+974,Anamika,Shankar,anamika.shankar@example.com,92095,7905,2025-06-25,None
+975,Krishna,Ratti,krishna.ratti@example.com,29219,70781,2025-07-25,Fee Default
+976,Vedant,Mandal,vedant.mandal@example.com,64065,35935,2025-08-28,Low Attendance
+977,Sathvik,Kashyap,sathvik.kashyap@example.com,36277,63723,2025-05-14,"Low Attendance, Multiple Failures, Fee Default, Admin Debar"
+978,Aarav,Mittal,aarav.mittal@example.com,73887,26113,2025-08-29,Low Attendance
+979,Bhavika,Patla,bhavika.patla@example.com,46097,53903,2025-12-10,Low Attendance
+980,Mason,Raju,mason.raju@example.com,69881,30119,2025-09-29,Low Attendance
+981,Lakshit,Dada,lakshit.dada@example.com,26408,73592,2025-11-16,"Low Attendance, Low Study + Low Marks"
+982,Fiyaz,Ramakrishnan,fiyaz.ramakrishnan@example.com,23175,76825,2025-05-05,"Low Attendance, Fee Default, Admin Debar"
+983,Baghyawati,Pau,baghyawati.pau@example.com,67775,32225,2025-06-20,Low Attendance
+984,Hiral,Taneja,hiral.taneja@example.com,31487,68513,2025-08-30,"Low Attendance, Fee Default, Admin Debar"
+985,Vrinda,Hari,vrinda.hari@example.com,66582,33418,2025-12-07,Low Attendance
+986,Jairaj,Sahni,jairaj.sahni@example.com,58644,41356,2025-07-28,Low Attendance
+987,Yutika,Nath,yutika.nath@example.com,80474,19526,2025-12-11,Low Attendance
+988,Zansi,Dutt,zansi.dutt@example.com,89642,10358,2025-05-29,None
+989,Xiti,Sengupta,xiti.sengupta@example.com,99516,484,2025-04-26,"Multiple Failures, Low Study + Low Marks"
+990,Pushti,Sankar,pushti.sankar@example.com,83629,16371,2025-05-28,None
+991,Vivaan,Mitra,vivaan.mitra@example.com,27657,72343,2025-05-20,"Low Attendance, Fee Default, Admin Debar"
+992,Logan,Bassi,logan.bassi@example.com,86356,13644,2025-11-26,None
+993,Abeer,Bumb,abeer.bumb@example.com,79455,20545,2025-05-16,Low Attendance
+994,Aashi,Dubey,aashi.dubey@example.com,96676,3324,2025-05-27,Low Attendance
+995,Ayush,Madan,ayush.madan@example.com,74732,25268,2025-12-11,None
+996,Shivani,Gokhale,shivani.gokhale@example.com,49238,50762,2025-07-16,"Low Attendance, Fee Default, Admin Debar"
+997,Dhruv,Hayre,dhruv.hayre@example.com,47047,52953,2025-08-16,Fee Default
+998,Krisha,Bajwa,krisha.bajwa@example.com,88964,11036,2025-09-15,None
+999,Lakshmi,Mitra,lakshmi.mitra@example.com,63147,36853,2025-06-26,Low Attendance
+1000,Bhavya,Madan,bhavya.madan@example.com,36082,63918,2025-08-02,"Multiple Failures, Fee Default"

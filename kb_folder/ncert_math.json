@@ -1,0 +1,164 @@
+{
+  "subject": "Mathematics",
+  "class": 12,
+  "books": [
+    {
+      "bookTitle": "NCERT Mathematics Part 1",
+      "units": [
+        {
+          "unitNumber": 1,
+          "unitTitle": "Relations and Functions",
+          "topics": [
+            "Types of Relations",
+            "Types of Functions",
+            "Composition of Functions and Invertible Function",
+            "Binary Operations"
+          ]
+        },
+        {
+          "unitNumber": 2,
+          "unitTitle": "Inverse Trigonometric Functions",
+          "topics": [
+            "Introduction",
+            "Basic Concepts",
+            "Properties of Inverse Trigonometric Functions"
+          ]
+        },
+        {
+          "unitNumber": 3,
+          "unitTitle": "Matrices",
+          "topics": [
+            "Introduction",
+            "Matrix",
+            "Types of Matrices",
+            "Operations on Matrices",
+            "Transpose of a Matrix",
+            "Symmetric and Skew Symmetric Matrices",
+            "Elementary Operations (Transformations) of a Matrix",
+            "Invertible Matrices"
+          ]
+        },
+        {
+          "unitNumber": 4,
+          "unitTitle": "Determinants",
+          "topics": [
+            "Introduction",
+            "Determinant",
+            "Properties of Determinants",
+            "Area of a Triangle",
+            "Minors and Cofactors",
+            "Adjoint and Inverse of a Matrix",
+            "Applications of Determinants and Matrices"
+          ]
+        },
+        {
+          "unitNumber": 5,
+          "unitTitle": "Continuity and Differentiability",
+          "topics": [
+            "Introduction",
+            "Continuity",
+            "Differentiability",
+            "Exponential and Logarithmic Functions",
+            "Logarithmic Differentiation",
+            "Derivative of Functions in Parametric Forms",
+            "Second Order Derivative",
+            "Mean Value Theorem"
+          ]
+        },
+        {
+          "unitNumber": 6,
+          "unitTitle": "Applications of Derivatives",
+          "topics": [
+            "Introduction",
+            "Rate of Change of Quantities",
+            "Increasing and Decreasing Functions",
+            "Tangents and Normals",
+            "Approximations",
+            "Maxima and Minima"
+          ]
+        }
+      ]
+    },
+    {
+      "bookTitle": "NCERT Mathematics Part 2",
+      "units": [
+        {
+          "unitNumber": 7,
+          "unitTitle": "Integrals",
+          "topics": [
+            "Introduction",
+            "Integration as an Inverse Process of Differentiation",
+            "Methods of Integration",
+            "Integrals of Some Particular Functions",
+            "Integration by Partial Fractions",
+            "Integration by Parts",
+            "Definite Integral",
+            "Fundamental Theorem of Calculus",
+            "Evaluation of Definite Integrals by Substitution",
+            "Some Properties of Definite Integrals"
+          ]
+        },
+        {
+          "unitNumber": 8,
+          "unitTitle": "Application of Integrals",
+          "topics": [
+            "Introduction",
+            "Area under Simple Curves"
+          ]
+        },
+        {
+          "unitNumber": 9,
+          "unitTitle": "Differential Equations",
+          "topics": [
+            "Introduction",
+            "Basic Concepts",
+            "General and Particular Solutions of a Differential Equation",
+            "Methods of Solving First Order, First Degree Differential Equations"
+          ]
+        },
+        {
+          "unitNumber": 10,
+          "unitTitle": "Vector Algebra",
+          "topics": [
+            "Introduction",
+            "Some Basic Concepts",
+            "Types of Vectors",
+            "Addition of Vectors",
+            "Multiplication of a Vector by a Scalar",
+            "Product of Two Vectors"
+          ]
+        },
+        {
+          "unitNumber": 11,
+          "unitTitle": "Three Dimensional Geometry",
+          "topics": [
+            "Introduction",
+            "Direction Cosines and Direction Ratios of a Line",
+            "Equation of a Line in Space",
+            "Angle between Two Lines",
+            "Shortest Distance between Two Lines"
+          ]
+        },
+        {
+          "unitNumber": 12,
+          "unitTitle": "Linear Programming",
+          "topics": [
+            "Introduction",
+            "Linear Programming Problem and its Mathematical Formulation"
+          ]
+        },
+        {
+          "unitNumber": 13,
+          "unitTitle": "Probability",
+          "topics": [
+            "Introduction",
+            "Conditional Probability",
+            "Multiplication Theorem on Probability",
+            "Independent Events",
+            "Bayes' Theorem"
+          ]
+        }
+      ]
+    }
+  ]
+}
