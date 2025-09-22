@@ -25,7 +25,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-cred = credentials.Certificate(f"sih25-9d8bb-firebase-adminsdk-fbsvc-9964362798.json")  # download from Firebase console
+cred = credentials.Certificate("sih25-9d8bb-firebase-adminsdk-fbsvc-bf3e409ea5.json")  # download from Firebase console
 firebase_admin.initialize_app(cred)
 
 db = firestore.client()
@@ -155,87 +155,107 @@ async def check():
     return{"Server running successfully"}
 
 
-@app.get("/get/studentData", response_model=List[Student])
-async def get_studentData():
-    students_ref = db.collection("StudentData") 
-    logger.info("Fetching student data from Firestore")
-    docs = students_ref.stream()
-
-    student_list = []
-    for doc in docs:
-        data = doc.to_dict()
-        student_list.append(Student(
-            studentid=data.get("SID"),
-            name=data.get("Name"),
-            attendance=data.get("Attendance_percentage"),
-            aggregate=data.get("Aggregate"),
-            feeStatus=data.get("Fees"),
-            riskLevel=data.get("RiskLevel")
-        ))
-
-    return student_list
-
-
 @app.post("/predict")
 def predict(student: StudentInput):
+    # --- Rule Based ---
+    if (
+        student.absence_days > 50 or
+        student.physics_score < 20 or
+        student.chemistry_score < 20 or
+        student.math_score < 20 or
+        student.weekly_self_study_hours < 2
+    ):
+        reasons = []
+        if student.absence_days > 50: reasons.append("High Absence")
+        if student.physics_score < 20: reasons.append("Low Physics Score")
+        if student.chemistry_score < 20: reasons.append("Low Chemistry Score")
+        if student.math_score < 20: reasons.append("Low Math Score")
+        if student.weekly_self_study_hours < 2: reasons.append("Low Self Study Hours")
 
-    #Rule Based Filtering
-    if student.absence_days > 50 or student.physics_score < 20 or student.chemistry_score < 20 or student.math_score < 20 or student.weekly_self_study_hours < 2 :
-        reasons=[]
-        if student.absence_days > 50:
-            reasons.append("High Absence")
-        if student.physics_score < 20:
-            reasons.append("Low Physics Score")
-        if student.chemistry_score < 20:
-            reasons.append("Low Chemistry Score")
-        if student.math_score < 20:
-            reasons.append("Low Math Score")
-        if student.weekly_self_study_hours < 2:
-            reasons.append("Low Self Study Hours")
-
-        return {
-            "RISKLevel": "High Risk",
-            "Reasons": reasons
-        }
-    
-    # ML Based Prediction
-    # Convert input to DataFrame
-    X_new = pd.DataFrame([student.dict()])
-    X_new = pd.get_dummies(X_new, drop_first=True)
-    
-    # Align with training features
-    X_new = X_new.reindex(columns=model_columns, fill_value=0)
-
-    # Predict debarred (Yes/No)
-    debarred = clf_binary.predict(X_new)[0]
-
-    # Predict reasons
-    y_prob = clf_multi.predict_proba(X_new)
-    predicted_reasons = []
-    for i, probs in enumerate(y_prob):
-        if probs[0][1] > 0.3:  # threshold
-            predicted_reasons.append(mlb.classes_[i])
-
-    if debarred == 1 and len(predicted_reasons) == 0:
-        predicted_reasons = ["Unknown Risk"]
-
-    risklevel=""
-
-    if(debarred==1):
-        if len(predicted_reasons)==1:
-            risklevel="Low Risk"
-        elif len(predicted_reasons)<=3:
-            risklevel="Medium Risk"
-        else:
-            risklevel="High Risk"
+        risklevel = "High Risk"
+        result = {"RISKLevel": risklevel, "Reasons": reasons}
     else:
-        risklevel="No Risk"
+        # --- ML Based ---
+        X_new = pd.DataFrame([student.dict()])
+        X_new = pd.get_dummies(X_new, drop_first=True)
+        X_new = X_new.reindex(columns=model_columns, fill_value=0)
+
+        debarred = clf_binary.predict(X_new)[0]
+
+        y_prob = clf_multi.predict_proba(X_new)
+        predicted_reasons = []
+        for i, probs in enumerate(y_prob):
+            if probs[0][1] > 0.3:  # threshold
+                predicted_reasons.append(mlb.classes_[i])
+
+        if debarred == 1 and len(predicted_reasons) == 0:
+            predicted_reasons = ["Unknown Risk"]
+
+        if debarred == 1:
+            if len(predicted_reasons) == 1:
+                risklevel = "Low Risk"
+            elif len(predicted_reasons) <= 3:
+                risklevel = "Medium Risk"
+            else:
+                risklevel = "High Risk"
+        else:
+            risklevel = "No Risk"
+
+        result = {
+            "RISKLevel": risklevel,
+            "Reasons": predicted_reasons if debarred else ["None"]
+        }
+
+    # ✅ Update Firestore
+    student_ref = db.collection("students").document(str(student.id))
+    student_ref.set({
+        "risk_level": result["RISKLevel"],
+        "risk_reasons": result["Reasons"],
+        "updated_at": firestore.SERVER_TIMESTAMP
+    }, merge=True)
+
+    return result
 
 
-    return {
-        "RISKLevel": risklevel,
-        "Reasons": predicted_reasons if debarred else ["None"]
-    }
+@app.post("/predict-all")
+def predict_all():
+    students = db.collection("students").stream()
+    results = []
+
+    for s in students:
+        student_data = s.to_dict()
+        try:
+            student = StudentInput(**{
+                "id": int(student_data.get("id")),
+                "gender": student_data.get("gender", "Unknown"),
+                "math_score": int(student_data.get("math_score", 0)),
+                "physics_score": int(student_data.get("physics_score", 0)),
+                "chemistry_score": int(student_data.get("chemistry_score", 0)),
+                "path_time_job": student_data.get("path_time_job", "No"),
+                "absence_days": int(student_data.get("absence_days", 0)),
+                "extracurricular_activities": student_data.get("extracurricular_activities", "No"),
+                "weekly_self_study_hours": int(student_data.get("weekly_self_study_hours", 0)),
+                "career_aspiration": student_data.get("career_aspiration", "Unknown"),
+                "fee_paid": int(student_data.get("fee_paid", 0)),
+                "fee_pending": int(student_data.get("fee_pending", 0)),
+            })
+
+            result = predict(student)
+
+            # ✅ Update Firestore for each student
+            student_ref = db.collection("students").document(str(student.id))
+            student_ref.set({
+                "risk_level": result["RISKLevel"],
+                "risk_reasons": result["Reasons"],
+                "updated_at": firestore.SERVER_TIMESTAMP
+            }, merge=True)
+
+            results.append({"id": s.id, **result})
+
+        except Exception as e:
+            logger.error(f"Error processing student {s.id}: {e}")
+
+    return {"results": results}
 
 
 @app.post("/studyplan")
